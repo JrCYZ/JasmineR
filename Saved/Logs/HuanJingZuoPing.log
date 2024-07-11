@@ -1145,3 +1145,54 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.11-23.48.43:525][  3]LogD3D12RHI: Cannot end block when stack is empty
 [2024.07.11-23.48.46:533][109]LogSlate: Window 'Message Log' being destroyed
 [2024.07.11-23.48.46:535][109]LogSlate: Window 'Message Log' being destroyed
+[2024.07.11-23.48.58:977][209]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.07.11-23.49.06:945][737]LogSlate: Window 'Open Level' being destroyed
+[2024.07.11-23.49.09:738][856]LogSlate: Window 'New Level' being destroyed
+[2024.07.11-23.49.09:743][856]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.11-23.49.09:743][856]LightingResults: New page: Lighting Build
+[2024.07.11-23.49.09:743][856]LoadErrors: New page: Loading map: Template_Default.umap
+[2024.07.11-23.49.09:767][856]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.11-23.49.09:767][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.11-23.49.09:767][856]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.07.11-23.49.09:767][856]MapCheck: New page: Map Check
+[2024.07.11-23.49.09:767][856]LightingResults: New page: Lighting Build
+[2024.07.11-23.49.09:769][856]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.11-23.49.09:772][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.07.11-23.49.09:782][856]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2024.07.11-23.49.09:782][856]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.11-23.49.09:782][856]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.11-23.49.09:782][856]LogAIModule: Creating AISystem for world Untitled_1
+[2024.07.11-23.49.09:790][856]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.11-23.49.09:794][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.07.11-23.49.09:794][856]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.11-23.49.09:794][856]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.127ms to complete.
+[2024.07.11-23.49.13:004][ 15]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.11-23.49.13:104][ 18]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.11-23.49.21:727][ 36]LogSlate: Window 'Save Level As' being destroyed
+[2024.07.11-23.49.21:798][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.11-23.49.21:819][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.07.11-23.49.21:824][ 36]LogPackageLocalizationCache: Processed 49 localized package path(s) for 1 prioritized culture(s) in 0.003660 seconds
+[2024.07.11-23.49.21:828][ 36]LogSavePackage: Moving output files for package: /Game/3100/3100
+[2024.07.11-23.49.21:828][ 36]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/31003E7D114D4061A4CA78A12ABFD8F4A9BD.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100.umap'
+[2024.07.11-23.49.21:830][ 36]LogFileHelpers: All files are already saved.
+[2024.07.11-23.49.21:841][ 36]LogFileHelpers: Saving map '3100' took 0.108
+[2024.07.11-23.49.21:841][ 36]Cmd: MAP LOAD FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.11-23.49.21:841][ 36]LightingResults: New page: Lighting Build
+[2024.07.11-23.49.21:841][ 36]LoadErrors: New page: Loading map: 3100.umap
+[2024.07.11-23.49.21:860][ 36]LogWorld: UWorld::CleanupWorld for 3100, bSessionEnded=true, bCleanupResources=true
+[2024.07.11-23.49.21:860][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.11-23.49.21:860][ 36]MapCheck: New page: Map Check
+[2024.07.11-23.49.21:860][ 36]LightingResults: New page: Lighting Build
+[2024.07.11-23.49.21:863][ 36]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.11-23.49.21:864][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.07.11-23.49.21:866][ 36]LogAudio: Display: Audio Device (ID: 1) registered with world '3100'.
+[2024.07.11-23.49.21:866][ 36]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.11-23.49.21:866][ 36]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.11-23.49.21:866][ 36]LogAIModule: Creating AISystem for world 3100
+[2024.07.11-23.49.21:874][ 36]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.11-23.49.21:877][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.07.11-23.49.21:879][ 36]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.11-23.49.21:879][ 36]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.07ms to complete.
+[2024.07.11-23.49.21:879][ 36]AssetCheck: New page: Asset Save: 3100
+[2024.07.11-23.49.21:879][ 36]LogContentValidation: Display: Validating /Script/Engine.World /Game/3100/3100.3100
+[2024.07.11-23.49.21:923][ 36]LogAutomationController: Ignoring very large delta of 8.39 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
