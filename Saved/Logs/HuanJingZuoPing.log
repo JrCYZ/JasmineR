@@ -1196,3 +1196,163 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.11-23.49.21:879][ 36]AssetCheck: New page: Asset Save: 3100
 [2024.07.11-23.49.21:879][ 36]LogContentValidation: Display: Validating /Script/Engine.World /Game/3100/3100.3100
 [2024.07.11-23.49.21:923][ 36]LogAutomationController: Ignoring very large delta of 8.39 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.07.11-23.49.44:505][780]LogViewport: Scene viewport resized to 2476x1800, mode Windowed.
+[2024.07.11-23.49.46:133][895]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3100/_GENERATED/u1371722/Box_9E3DA8B9.Box_9E3DA8B9
+[2024.07.11-23.49.46:133][895]LogStaticMesh: Display: Building static mesh Box_9E3DA8B9...
+[2024.07.11-23.49.46:134][895]LogActorFactory: Actor Factory spawned StaticMesh /Game/3100/_GENERATED/u1371722/Box_9E3DA8B9.Box_9E3DA8B9 as actor: StaticMeshActor /Game/3100/3100.3100:PersistentLevel.StaticMeshActor_0
+[2024.07.11-23.49.46:135][895]LogStaticMesh: Built static mesh [0.00s] /Game/3100/_GENERATED/u1371722/Box_9E3DA8B9.Box_9E3DA8B9
+[2024.07.11-23.50.20:958][739]Cmd: TRANSACTION UNDO
+[2024.07.11-23.50.20:958][739]LogEditorTransaction: Undo Move Elements
+[2024.07.11-23.50.21:208][742]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18417751648590106190
+[2024.07.11-23.50.21:208][742]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2024.07.11-23.50.30:223][207]Cmd: TRANSACTION UNDO
+[2024.07.11-23.50.30:223][207]LogEditorTransaction: Undo Move Elements
+[2024.07.11-23.50.40:557][716]Cmd: TRANSACTION UNDO
+[2024.07.11-23.50.40:557][716]LogEditorTransaction: Undo Clicking on Elements
+[2024.07.11-23.50.41:120][728]Cmd: TRANSACTION UNDO
+[2024.07.11-23.50.41:120][728]LogEditorTransaction: Undo Clicking on Elements
+[2024.07.11-23.50.52:121][317]LogDerivedDataCache: C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.104 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7718 files in 9659 folders with total size 4302 MiB.
+[2024.07.11-23.51.03:865][948]Cmd: TRANSACTION UNDO
+[2024.07.11-23.51.03:865][948]LogEditorTransaction: Undo Clicking on Elements
+[2024.07.11-23.51.04:278][953]Cmd: TRANSACTION UNDO
+[2024.07.11-23.51.04:278][953]LogEditorTransaction: Undo Clicking on Elements
+[2024.07.11-23.51.14:403][543]Cmd: TRANSACTION UNDO
+[2024.07.11-23.51.14:403][543]LogEditorTransaction: Undo Clicking on Elements
+[2024.07.11-23.52.35:037][  3]LogViewport: Scene viewport resized to 3150x1800, mode Windowed.
+[2024.07.11-23.52.38:752][172]Cmd: TRANSACTION UNDO
+[2024.07.11-23.52.38:752][172]LogEditorTransaction: Undo Rotate Elements
+[2024.07.11-23.52.51:975][766]Cmd: TRANSACTION UNDO
+[2024.07.11-23.52.51:975][766]LogEditorTransaction: Undo Move Elements
+[2024.07.11-23.53.25:966][385]Cmd: TRANSACTION UNDO
+[2024.07.11-23.53.25:966][385]LogEditorTransaction: Undo Scale Elements
+[2024.07.11-23.53.27:240][436]Cmd: TRANSACTION UNDO
+[2024.07.11-23.53.27:240][436]LogEditorTransaction: Undo Scale Elements
+[2024.07.11-23.55.44:734][ 78]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.11-23.55.45:041][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.11-23.55.45:129][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.11-23.55.45:157][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.07.11-23.55.45:168][ 93]LogSavePackage: Moving output files for package: /Game/3100/3100
+[2024.07.11-23.55.45:168][ 93]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/310051802B62472C7AE33F6196AD7CA8C576.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100.umap'
+[2024.07.11-23.55.45:170][ 93]LogFileHelpers: All files are already saved.
+[2024.07.11-23.55.45:174][ 93]LogFileHelpers: Saving map '3100' took 0.045
+[2024.07.11-23.55.45:191][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms
+[2024.07.11-23.55.45:193][ 93]AssetCheck: New page: Asset Save: 3100
+[2024.07.11-23.55.45:193][ 93]LogContentValidation: Display: Validating /Script/Engine.World /Game/3100/3100.3100
+[2024.07.11-23.55.45:871][132]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.11-23.55.45:875][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.11-23.55.45:875][132]PIE: New page: PIE session: 3100 (Jul 11, 2024, 11:55:45 AM)
+[2024.07.11-23.55.45:879][132]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.07.11-23.55.45:879][132]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.07.11-23.55.45:879][132]LogPlayLevel: Creating play world package: /Game/3100/UEDPIE_0_3100
+[2024.07.11-23.55.45:882][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002659s)
+[2024.07.11-23.55.45:882][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3100/3100.3100 to /Game/3100/UEDPIE_0_3100.3100 (0.002777s)
+[2024.07.11-23.55.45:886][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.07.11-23.55.45:886][132]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.11-23.55.45:886][132]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.11-23.55.45:887][132]LogAIModule: Creating AISystem for world 3100
+[2024.07.11-23.55.45:887][132]LogPlayLevel: PIE: World Init took: (0.001021s)
+[2024.07.11-23.55.45:887][132]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.07.11-23.55.45:887][132]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.11-23.55.45:887][132]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.11-23.55.45:887][132]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.11-23.55.45:887][132]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.11-23.55.45:887][132]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.11-23.55.45:887][132]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.11-23.55.45:887][132]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.11-23.55.45:887][132]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.11-23.55.45:888][132]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.11-23.55.45:888][132]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.11-23.55.45:888][132]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.11-23.55.45:890][132]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.11-23.55.45:907][132]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.11-23.55.45:907][132]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.11-23.55.45:907][132]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.11-23.55.45:907][132]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.11-23.55.45:908][132]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.07.11-23.55.45:908][132]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.07.11-23.55.45:910][132]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.07.11-23.55.45:910][132]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.07.11-23.55.45:910][132]LogInit: FAudioDevice initialized with ID 2.
+[2024.07.11-23.55.45:910][132]LogAudio: Display: Audio Device (ID: 2) registered with world '3100'.
+[2024.07.11-23.55.45:910][132]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.07.11-23.55.45:913][132]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.11-23.55.45:914][132]LogWorld: Bringing World /Game/3100/UEDPIE_0_3100.3100 up for play (max tick rate 0) at 2024.07.11-17.55.45
+[2024.07.11-23.55.45:914][132]LogWorld: Bringing up level for play took: 0.001086
+[2024.07.11-23.55.45:916][132]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2024.07.11-23.55.45:925][132]PIE: Server logged in
+[2024.07.11-23.55.45:926][132]PIE: Play in editor total start time 0.051 seconds.
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display: ================================================
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display: Total job queries 80, among them cache hits 20 (25.00%)
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display: Tracking 60 distinct input hashes that result in 48 distinct outputs (80.00%)
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display: RAM used: 1.24 MiB of 1.60 GiB budget. Usage: 0.08%
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display: Shaders Compiled: 10
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100%)
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display: Average time worker was idle: 24.37 s
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.08 s
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display: Job execution time: average 0.72 s, max 0.88 s
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display: Job life time (pending + execution): average 0.77 s, max 0.89
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display: Shader code size: average 31.579 KiB, min 4.477 KiB, max 36.008 KiB
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.71 s
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display: Average processing rate: 5.83 jobs/sec
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display: Total thread time: 4.028 s
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display: Total thread preprocess time: 0.459 s
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display: Percentage time preprocessing: 11.40%
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display: Effective parallelization: 2.35 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.47 sec, max 0.49 sec, min 0.46 sec)
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.44 sec, max 0.50 sec, min 0.34 sec)
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.07.11-23.55.46:074][134]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 34.87% of total time (compiled    3 times, average 0.47 sec, max 0.49 sec, min 0.46 sec)
+[2024.07.11-23.55.46:075][134]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 32.84% of total time (compiled    3 times, average 0.44 sec, max 0.50 sec, min 0.34 sec)
+[2024.07.11-23.55.46:075][134]LogShaderCompilers: Display:                                                  FHitProxyVS - 11.42% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2024.07.11-23.55.46:075][134]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.25% of total time (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2024.07.11-23.55.46:075][134]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.50% of total time (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2024.07.11-23.55.46:075][134]LogShaderCompilers: Display: ================================================
+[2024.07.11-23.55.53:414][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.11-23.55.53:415][531]LogWorld: BeginTearingDown for /Game/3100/UEDPIE_0_3100
+[2024.07.11-23.55.53:415][531]LogWorld: UWorld::CleanupWorld for 3100, bSessionEnded=true, bCleanupResources=true
+[2024.07.11-23.55.53:415][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.11-23.55.53:424][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.11-23.55.53:426][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.11-23.55.53:429][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.11-23.55.53:429][531]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.07.11-23.55.53:429][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.07.11-23.55.53:431][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.07.11-23.55.53:435][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.07.11-23.55.53:552][533]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.07.11-23.56.01:401][923]LogViewport: Scene viewport resized to 2476x1800, mode Windowed.
+[2024.07.11-23.56.04:121][126]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3100/_GENERATED/u1371722/Rectangle_A179E5B8.Rectangle_A179E5B8
+[2024.07.11-23.56.04:121][126]LogStaticMesh: Display: Building static mesh Rectangle_A179E5B8...
+[2024.07.11-23.56.04:122][126]LogActorFactory: Actor Factory spawned StaticMesh /Game/3100/_GENERATED/u1371722/Rectangle_A179E5B8.Rectangle_A179E5B8 as actor: StaticMeshActor /Game/3100/3100.3100:PersistentLevel.StaticMeshActor_35
+[2024.07.11-23.56.04:122][126]LogStaticMesh: Built static mesh [0.00s] /Game/3100/_GENERATED/u1371722/Rectangle_A179E5B8.Rectangle_A179E5B8
+[2024.07.11-23.56.05:532][207]Cmd: SELECT NONE
+[2024.07.11-23.56.06:314][259]Cmd: SELECT NONE
+[2024.07.11-23.56.07:535][334]LogViewport: Scene viewport resized to 3150x1800, mode Windowed.
+[2024.07.11-23.56.09:741][458]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.11-23.56.27:098][237]Cmd: TRANSACTION UNDO
+[2024.07.11-23.56.27:098][237]LogEditorTransaction: Undo Scale Elements
+[2024.07.11-23.56.32:965][500]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.11-23.56.44:348][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.07.11-23.56.45:314][ 59]LogSlate: Window 'Save Content' being destroyed
+[2024.07.11-23.56.45:324][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.11-23.56.45:374][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.11-23.56.45:396][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.07.11-23.56.45:405][ 59]LogSavePackage: Moving output files for package: /Game/3100/3100
+[2024.07.11-23.56.45:405][ 59]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/3100059FCC9A4B5B245D9BE645862B24D848.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100.umap'
+[2024.07.11-23.56.45:407][ 59]LogFileHelpers: All files are already saved.
+[2024.07.11-23.56.45:411][ 59]LogFileHelpers: Saving map '3100' took 0.038
+[2024.07.11-23.56.45:466][ 59]LogSavePackage: Moving output files for package: /Game/3100/_GENERATED/u1371722/Box_9E3DA8B9
+[2024.07.11-23.56.45:466][ 59]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/Box_9E3DA8B9721FA2FD4E01DC28D4F61C969DC3D954.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/_GENERATED/u1371722/Box_9E3DA8B9.uasset'
+[2024.07.11-23.56.45:475][ 59]LogSavePackage: Moving output files for package: /Game/3100/_GENERATED/u1371722/Rectangle_A179E5B8
+[2024.07.11-23.56.45:475][ 59]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/Rectangle_A179E5B8B7235C0F4F0577F5F47FBCAD1F42FEB7.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/_GENERATED/u1371722/Rectangle_A179E5B8.uasset'
+[2024.07.11-23.56.45:481][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 307 ms)
+[2024.07.11-23.56.45:483][ 59]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.11-23.56.45:483][ 59]LogContentValidation: Display: Validating /Script/Engine.World /Game/3100/3100.3100
+[2024.07.11-23.56.45:483][ 59]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/3100/_GENERATED/u1371722/Box_9E3DA8B9.Box_9E3DA8B9
+[2024.07.11-23.56.45:483][ 59]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/3100/_GENERATED/u1371722/Rectangle_A179E5B8.Rectangle_A179E5B8
