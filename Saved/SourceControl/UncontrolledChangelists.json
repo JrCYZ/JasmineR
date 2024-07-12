@@ -26,7 +26,12 @@
 				"C:/Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/BP/NewBlueprint.uasset",
 				"C:/Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/MateriaL/P.uasset",
 				"C:/Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/MateriaL/Light.uasset",
-				"C:/Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/GameStart.uasset"
+				"C:/Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/GameStart.uasset",
+				"C:/Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/Help.uasset",
+				"C:/Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/BP/DeadBody.uasset",
+				"C:/Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/DeadBody.uasset",
+				"C:/Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/BP/BP_Controller.uasset",
+				"C:/Users/u1371722/Documents/GitHub/JasmineR/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
 			]
 		}
 	]

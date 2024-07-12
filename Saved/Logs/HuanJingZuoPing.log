@@ -1727,3 +1727,1020 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.12-00.43.17:720][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 1.08 sec)
 [2024.07.12-00.43.17:720][300]AssetCheck: New page: Asset Save: GameStart
 [2024.07.12-00.43.17:720][300]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/3100/3100/UI/GameStart.GameStart
+[2024.07.12-00.43.50:771][ 56]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.07.12-00.45.12:721][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.45.12:756][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/UI/GameStart" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/GameStart.uasset" SILENT=true
+[2024.07.12-00.45.12:759][289]LogSavePackage: Moving output files for package: /Game/3100/3100/UI/GameStart
+[2024.07.12-00.45.12:759][289]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/GameStartE1B2CA3E4EEF82B13138129F800DC9D0.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/GameStart.uasset'
+[2024.07.12-00.45.12:764][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 1.13 sec)
+[2024.07.12-00.45.12:767][289]AssetCheck: New page: Asset Save: GameStart
+[2024.07.12-00.45.12:767][289]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/3100/3100/UI/GameStart.GameStart
+[2024.07.12-00.45.18:908][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.45.18:956][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/UI/GameStart" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/GameStart.uasset" SILENT=true
+[2024.07.12-00.45.18:959][960]LogSavePackage: Moving output files for package: /Game/3100/3100/UI/GameStart
+[2024.07.12-00.45.18:960][960]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/GameStart71A4307C4A3EA428A39FA2AED848AE67.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/GameStart.uasset'
+[2024.07.12-00.45.18:964][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 1.18 sec)
+[2024.07.12-00.45.18:967][960]AssetCheck: New page: Asset Save: GameStart
+[2024.07.12-00.45.18:967][960]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/3100/3100/UI/GameStart.GameStart
+[2024.07.12-00.45.19:855][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.45.19:904][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/UI/GameStart" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/GameStart.uasset" SILENT=true
+[2024.07.12-00.45.19:907][ 67]LogSavePackage: Moving output files for package: /Game/3100/3100/UI/GameStart
+[2024.07.12-00.45.19:907][ 67]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/GameStart05C5AD4B4F11884F23C14BAFBB481E27.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/GameStart.uasset'
+[2024.07.12-00.45.19:911][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 1.24 sec)
+[2024.07.12-00.45.19:914][ 67]AssetCheck: New page: Asset Save: GameStart
+[2024.07.12-00.45.19:914][ 67]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/3100/3100/UI/GameStart.GameStart
+[2024.07.12-00.45.21:260][229]BlueprintLog: New page: Compile GameStart
+[2024.07.12-00.45.21:278][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.07.12-00.45.36:465][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.45.36:506][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/UI/GameStart" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/GameStart.uasset" SILENT=true
+[2024.07.12-00.45.36:510][950]LogSavePackage: Moving output files for package: /Game/3100/3100/UI/GameStart
+[2024.07.12-00.45.36:510][950]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/GameStartC05663CA42262CE2BDF44786BD259650.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/GameStart.uasset'
+[2024.07.12-00.45.36:515][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 1.29 sec)
+[2024.07.12-00.45.36:515][950]AssetCheck: New page: Asset Save: GameStart
+[2024.07.12-00.45.36:515][950]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/3100/3100/UI/GameStart.GameStart
+[2024.07.12-00.45.38:944][151]BlueprintLog: New page: Compile GameStart
+[2024.07.12-00.45.38:959][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.07.12-00.45.40:454][232]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/3100/3100/Level/3100.3100:PersistentLevel.3100
+[2024.07.12-00.45.40:455][232]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.45.40:455][232]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-00.45.51:005][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.45.51:037][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Level/3100" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Level/3100.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.12-00.45.51:066][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.07.12-00.45.51:085][402]LogSavePackage: Moving output files for package: /Game/3100/3100/Level/3100
+[2024.07.12-00.45.51:086][402]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/310019E3F2604A9D115077FB7D8C5326D75D.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Level/3100.umap'
+[2024.07.12-00.45.51:088][402]LogFileHelpers: All files are already saved.
+[2024.07.12-00.45.51:092][402]LogFileHelpers: Saving map '3100' took 0.055
+[2024.07.12-00.45.51:097][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 1.38 sec)
+[2024.07.12-00.45.51:098][402]AssetCheck: New page: Asset Save: 3100
+[2024.07.12-00.45.51:098][402]LogContentValidation: Display: Validating /Script/Engine.World /Game/3100/3100/Level/3100.3100
+[2024.07.12-00.45.58:540][257]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.45.58:572][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Level/3100" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Level/3100.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.12-00.45.58:604][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.07.12-00.45.58:624][257]LogSavePackage: Moving output files for package: /Game/3100/3100/Level/3100
+[2024.07.12-00.45.58:624][257]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/3100EC5C9B304F003488A9E0D2B47ADF5C0B.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Level/3100.umap'
+[2024.07.12-00.45.58:625][257]LogFileHelpers: All files are already saved.
+[2024.07.12-00.45.58:630][257]LogFileHelpers: Saving map '3100' took 0.060
+[2024.07.12-00.45.58:634][257]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 1.47 sec)
+[2024.07.12-00.45.58:635][257]AssetCheck: New page: Asset Save: 3100
+[2024.07.12-00.45.58:636][257]LogContentValidation: Display: Validating /Script/Engine.World /Game/3100/3100/Level/3100.3100
+[2024.07.12-00.46.00:222][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.46.00:254][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Level/3100" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Level/3100.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.12-00.46.00:284][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.07.12-00.46.00:303][421]LogSavePackage: Moving output files for package: /Game/3100/3100/Level/3100
+[2024.07.12-00.46.00:304][421]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/3100ADB68AFA4ACEEE53FE8B35A412366210.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Level/3100.umap'
+[2024.07.12-00.46.00:306][421]LogFileHelpers: All files are already saved.
+[2024.07.12-00.46.00:310][421]LogFileHelpers: Saving map '3100' took 0.057
+[2024.07.12-00.46.00:315][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 1.57 sec)
+[2024.07.12-00.46.00:316][421]AssetCheck: New page: Asset Save: 3100
+[2024.07.12-00.46.00:316][421]LogContentValidation: Display: Validating /Script/Engine.World /Game/3100/3100/Level/3100.3100
+[2024.07.12-00.46.00:798][478]BlueprintLog: New page: Compile 3100
+[2024.07.12-00.46.00:811][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.07.12-00.46.01:564][518]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.12-00.46.01:568][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-00.46.01:568][518]PIE: New page: PIE session: 3100 (Jul 11, 2024, 12:46:01 PM)
+[2024.07.12-00.46.01:592][518]LogPlayLevel: Creating play world package: /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.46.01:598][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005401s)
+[2024.07.12-00.46.01:598][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3100/3100/Level/3100.3100 to /Game/3100/3100/Level/UEDPIE_0_3100.3100 (0.005447s)
+[2024.07.12-00.46.01:605][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.07.12-00.46.01:606][518]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.46.01:606][518]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-00.46.01:607][518]LogAIModule: Creating AISystem for world 3100
+[2024.07.12-00.46.01:607][518]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2024.07.12-00.46.01:607][518]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.07.12-00.46.01:607][518]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-00.46.01:607][518]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-00.46.01:607][518]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-00.46.01:607][518]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-00.46.01:607][518]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.12-00.46.01:607][518]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-00.46.01:607][518]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.12-00.46.01:607][518]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-00.46.01:607][518]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-00.46.01:607][518]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-00.46.01:607][518]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-00.46.01:609][518]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.12-00.46.01:622][518]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.12-00.46.01:622][518]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-00.46.01:622][518]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-00.46.01:622][518]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-00.46.01:623][518]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.07.12-00.46.01:623][518]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.07.12-00.46.01:624][518]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.07.12-00.46.01:624][518]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.07.12-00.46.01:624][518]LogInit: FAudioDevice initialized with ID 5.
+[2024.07.12-00.46.01:624][518]LogAudio: Display: Audio Device (ID: 5) registered with world '3100'.
+[2024.07.12-00.46.01:624][518]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.07.12-00.46.01:626][518]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.12-00.46.01:629][518]LogWorld: Bringing World /Game/3100/3100/Level/UEDPIE_0_3100.3100 up for play (max tick rate 0) at 2024.07.11-18.46.01
+[2024.07.12-00.46.01:629][518]LogWorld: Bringing up level for play took: 0.002270
+[2024.07.12-00.46.01:630][518]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.07.12-00.46.01:634][518]PIE: Server logged in
+[2024.07.12-00.46.01:634][518]PIE: Play in editor total start time 0.067 seconds.
+[2024.07.12-00.46.03:373][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.46.03:373][613]LogWorld: BeginTearingDown for /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.46.03:373][613]LogWorld: UWorld::CleanupWorld for 3100, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-00.46.03:373][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.46.03:375][613]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-00.46.03:378][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.46.03:385][613]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.12-00.46.03:385][613]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.07.12-00.46.03:386][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.07.12-00.46.03:387][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.07.12-00.46.03:390][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.46.03:393][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.07.12-00.46.03:447][615]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.07.12-00.46.03:781][633]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.12-00.46.03:785][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-00.46.03:785][633]PIE: New page: PIE session: 3100 (Jul 11, 2024, 12:46:03 PM)
+[2024.07.12-00.46.03:785][633]LogPlayLevel: Creating play world package: /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.46.03:790][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005278s)
+[2024.07.12-00.46.03:790][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3100/3100/Level/3100.3100 to /Game/3100/3100/Level/UEDPIE_0_3100.3100 (0.005310s)
+[2024.07.12-00.46.03:798][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.07.12-00.46.03:800][633]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.46.03:800][633]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-00.46.03:800][633]LogAIModule: Creating AISystem for world 3100
+[2024.07.12-00.46.03:801][633]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2024.07.12-00.46.03:801][633]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.07.12-00.46.03:801][633]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-00.46.03:801][633]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-00.46.03:801][633]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-00.46.03:801][633]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-00.46.03:801][633]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.12-00.46.03:801][633]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-00.46.03:801][633]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.12-00.46.03:801][633]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-00.46.03:801][633]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-00.46.03:801][633]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-00.46.03:801][633]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-00.46.03:803][633]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.12-00.46.03:815][633]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.12-00.46.03:815][633]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-00.46.03:815][633]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-00.46.03:815][633]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-00.46.03:816][633]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.07.12-00.46.03:816][633]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.07.12-00.46.03:817][633]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.07.12-00.46.03:817][633]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.07.12-00.46.03:817][633]LogInit: FAudioDevice initialized with ID 6.
+[2024.07.12-00.46.03:817][633]LogAudio: Display: Audio Device (ID: 6) registered with world '3100'.
+[2024.07.12-00.46.03:817][633]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.07.12-00.46.03:820][633]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.12-00.46.03:822][633]LogWorld: Bringing World /Game/3100/3100/Level/UEDPIE_0_3100.3100 up for play (max tick rate 0) at 2024.07.11-18.46.03
+[2024.07.12-00.46.03:822][633]LogWorld: Bringing up level for play took: 0.002113
+[2024.07.12-00.46.03:824][633]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.07.12-00.46.03:827][633]PIE: Server logged in
+[2024.07.12-00.46.03:827][633]PIE: Play in editor total start time 0.042 seconds.
+[2024.07.12-00.46.06:652][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.46.06:652][773]LogWorld: BeginTearingDown for /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.46.06:652][773]LogWorld: UWorld::CleanupWorld for 3100, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-00.46.06:653][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.46.06:666][773]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-00.46.06:669][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.46.06:677][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.46.06:678][773]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.07.12-00.46.06:678][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.07.12-00.46.06:679][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.07.12-00.46.06:685][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.07.12-00.46.06:741][774]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.07.12-00.46.08:026][835]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.12-00.46.08:031][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-00.46.08:031][835]PIE: New page: PIE session: 3100 (Jul 11, 2024, 12:46:08 PM)
+[2024.07.12-00.46.08:031][835]LogPlayLevel: Creating play world package: /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.46.08:039][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007702s)
+[2024.07.12-00.46.08:039][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3100/3100/Level/3100.3100 to /Game/3100/3100/Level/UEDPIE_0_3100.3100 (0.007843s)
+[2024.07.12-00.46.08:049][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.07.12-00.46.08:051][835]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.46.08:051][835]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-00.46.08:051][835]LogAIModule: Creating AISystem for world 3100
+[2024.07.12-00.46.08:052][835]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2024.07.12-00.46.08:052][835]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.07.12-00.46.08:052][835]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-00.46.08:052][835]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-00.46.08:052][835]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-00.46.08:052][835]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-00.46.08:052][835]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.12-00.46.08:052][835]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-00.46.08:052][835]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.12-00.46.08:052][835]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-00.46.08:052][835]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-00.46.08:052][835]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-00.46.08:052][835]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-00.46.08:054][835]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.12-00.46.08:069][835]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.12-00.46.08:069][835]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-00.46.08:069][835]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-00.46.08:069][835]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-00.46.08:070][835]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.07.12-00.46.08:070][835]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.07.12-00.46.08:071][835]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.07.12-00.46.08:071][835]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.07.12-00.46.08:071][835]LogInit: FAudioDevice initialized with ID 7.
+[2024.07.12-00.46.08:071][835]LogAudio: Display: Audio Device (ID: 7) registered with world '3100'.
+[2024.07.12-00.46.08:072][835]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.07.12-00.46.08:074][835]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.12-00.46.08:077][835]LogWorld: Bringing World /Game/3100/3100/Level/UEDPIE_0_3100.3100 up for play (max tick rate 0) at 2024.07.11-18.46.08
+[2024.07.12-00.46.08:077][835]LogWorld: Bringing up level for play took: 0.002640
+[2024.07.12-00.46.08:078][835]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.07.12-00.46.08:082][835]PIE: Server logged in
+[2024.07.12-00.46.08:083][835]PIE: Play in editor total start time 0.052 seconds.
+[2024.07.12-00.46.11:242][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.46.11:242][996]LogWorld: BeginTearingDown for /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.46.11:242][996]LogWorld: UWorld::CleanupWorld for 3100, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-00.46.11:242][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.46.11:251][996]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-00.46.11:254][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.46.11:262][996]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.12-00.46.11:262][996]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.07.12-00.46.11:262][996]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.07.12-00.46.11:264][996]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.07.12-00.46.11:267][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.46.11:270][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.07.12-00.46.11:327][997]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.07.12-00.46.23:999][353]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.12-00.46.24:005][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-00.46.24:005][353]PIE: New page: PIE session: 3100 (Jul 11, 2024, 12:46:24 PM)
+[2024.07.12-00.46.24:006][353]LogPlayLevel: Creating play world package: /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.46.24:013][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007005s)
+[2024.07.12-00.46.24:013][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3100/3100/Level/3100.3100 to /Game/3100/3100/Level/UEDPIE_0_3100.3100 (0.007046s)
+[2024.07.12-00.46.24:021][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.07.12-00.46.24:022][353]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.46.24:022][353]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-00.46.24:022][353]LogAIModule: Creating AISystem for world 3100
+[2024.07.12-00.46.24:023][353]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2024.07.12-00.46.24:023][353]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.07.12-00.46.24:023][353]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-00.46.24:023][353]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-00.46.24:023][353]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-00.46.24:023][353]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-00.46.24:023][353]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.12-00.46.24:023][353]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-00.46.24:023][353]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.12-00.46.24:023][353]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-00.46.24:023][353]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-00.46.24:023][353]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-00.46.24:023][353]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-00.46.24:025][353]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.12-00.46.24:037][353]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.12-00.46.24:038][353]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-00.46.24:038][353]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-00.46.24:038][353]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-00.46.24:039][353]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.07.12-00.46.24:039][353]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.07.12-00.46.24:040][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.07.12-00.46.24:040][353]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.07.12-00.46.24:040][353]LogInit: FAudioDevice initialized with ID 8.
+[2024.07.12-00.46.24:040][353]LogAudio: Display: Audio Device (ID: 8) registered with world '3100'.
+[2024.07.12-00.46.24:040][353]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.07.12-00.46.24:042][353]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.12-00.46.24:045][353]LogWorld: Bringing World /Game/3100/3100/Level/UEDPIE_0_3100.3100 up for play (max tick rate 0) at 2024.07.11-18.46.24
+[2024.07.12-00.46.24:045][353]LogWorld: Bringing up level for play took: 0.002228
+[2024.07.12-00.46.24:046][353]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.07.12-00.46.24:049][353]PIE: Server logged in
+[2024.07.12-00.46.24:050][353]PIE: Play in editor total start time 0.044 seconds.
+[2024.07.12-00.46.26:812][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.46.26:812][490]LogWorld: BeginTearingDown for /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.46.26:813][490]LogWorld: UWorld::CleanupWorld for 3100, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-00.46.26:813][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.46.26:818][490]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-00.46.26:821][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.46.26:831][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.46.26:831][490]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.07.12-00.46.26:831][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.07.12-00.46.26:833][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.07.12-00.46.26:839][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.07.12-00.46.26:895][491]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.07.12-00.46.29:474][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.46.29:522][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/UI/GameStart" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/GameStart.uasset" SILENT=true
+[2024.07.12-00.46.29:525][740]LogSavePackage: Moving output files for package: /Game/3100/3100/UI/GameStart
+[2024.07.12-00.46.29:526][740]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/GameStart0E11CD904488E76758C962AE4B8A9B0C.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/GameStart.uasset'
+[2024.07.12-00.46.29:531][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 1.62 sec)
+[2024.07.12-00.46.29:532][740]AssetCheck: New page: Asset Save: GameStart
+[2024.07.12-00.46.29:532][740]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/3100/3100/UI/GameStart.GameStart
+[2024.07.12-00.46.30:472][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.46.30:520][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Level/3100" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Level/3100.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.12-00.46.30:549][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.07.12-00.46.30:569][847]LogSavePackage: Moving output files for package: /Game/3100/3100/Level/3100
+[2024.07.12-00.46.30:570][847]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/3100BB50E2B04C11FA11496DBC9C12ED0021.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Level/3100.umap'
+[2024.07.12-00.46.30:572][847]LogFileHelpers: All files are already saved.
+[2024.07.12-00.46.30:576][847]LogFileHelpers: Saving map '3100' took 0.057
+[2024.07.12-00.46.30:581][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1.73 sec)
+[2024.07.12-00.46.30:583][847]AssetCheck: New page: Asset Save: 3100
+[2024.07.12-00.46.30:583][847]LogContentValidation: Display: Validating /Script/Engine.World /Game/3100/3100/Level/3100.3100
+[2024.07.12-00.46.49:256][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.46.49:306][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/UI/GameStart" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/GameStart.uasset" SILENT=true
+[2024.07.12-00.46.49:310][991]LogSavePackage: Moving output files for package: /Game/3100/3100/UI/GameStart
+[2024.07.12-00.46.49:310][991]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/GameStartED3F06F949E099008E5EF482048D2998.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/GameStart.uasset'
+[2024.07.12-00.46.49:316][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 1.79 sec)
+[2024.07.12-00.46.49:318][991]AssetCheck: New page: Asset Save: GameStart
+[2024.07.12-00.46.49:318][991]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/3100/3100/UI/GameStart.GameStart
+[2024.07.12-00.46.50:245][100]BlueprintLog: New page: Compile GameStart
+[2024.07.12-00.46.50:262][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.07.12-00.46.51:095][141]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.12-00.46.51:099][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-00.46.51:099][141]PIE: New page: PIE session: 3100 (Jul 11, 2024, 12:46:51 PM)
+[2024.07.12-00.46.51:132][141]LogPlayLevel: Creating play world package: /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.46.51:137][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005288s)
+[2024.07.12-00.46.51:137][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3100/3100/Level/3100.3100 to /Game/3100/3100/Level/UEDPIE_0_3100.3100 (0.005321s)
+[2024.07.12-00.46.51:144][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.07.12-00.46.51:145][141]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.46.51:145][141]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-00.46.51:146][141]LogAIModule: Creating AISystem for world 3100
+[2024.07.12-00.46.51:146][141]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2024.07.12-00.46.51:146][141]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.07.12-00.46.51:146][141]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-00.46.51:146][141]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-00.46.51:146][141]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-00.46.51:146][141]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-00.46.51:146][141]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.12-00.46.51:146][141]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-00.46.51:146][141]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.12-00.46.51:146][141]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-00.46.51:147][141]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-00.46.51:147][141]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-00.46.51:147][141]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-00.46.51:148][141]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.12-00.46.51:161][141]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.12-00.46.51:161][141]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-00.46.51:161][141]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-00.46.51:161][141]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-00.46.51:162][141]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.07.12-00.46.51:162][141]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.07.12-00.46.51:163][141]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.07.12-00.46.51:163][141]LogInit: FAudioDevice initialized with ID 9.
+[2024.07.12-00.46.51:163][141]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.07.12-00.46.51:163][141]LogAudio: Display: Audio Device (ID: 9) registered with world '3100'.
+[2024.07.12-00.46.51:163][141]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.07.12-00.46.51:166][141]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.12-00.46.51:168][141]LogWorld: Bringing World /Game/3100/3100/Level/UEDPIE_0_3100.3100 up for play (max tick rate 0) at 2024.07.11-18.46.51
+[2024.07.12-00.46.51:168][141]LogWorld: Bringing up level for play took: 0.002236
+[2024.07.12-00.46.51:170][141]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.07.12-00.46.51:173][141]PIE: Server logged in
+[2024.07.12-00.46.51:173][141]PIE: Play in editor total start time 0.075 seconds.
+[2024.07.12-00.46.52:852][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.46.52:852][223]LogWorld: BeginTearingDown for /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.46.52:852][223]LogWorld: UWorld::CleanupWorld for 3100, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-00.46.52:853][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.46.52:863][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-00.46.52:866][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.46.52:876][223]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.12-00.46.52:877][223]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.07.12-00.46.52:877][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.07.12-00.46.52:878][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.07.12-00.46.52:882][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.46.52:885][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.07.12-00.46.52:943][224]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.07.12-00.47.33:255][693]BlueprintLog: New page: Compile 3100
+[2024.07.12-00.47.33:272][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.07.12-00.47.38:980][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.47.39:021][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/UI/GameStart" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/GameStart.uasset" SILENT=true
+[2024.07.12-00.47.39:025][354]LogSavePackage: Moving output files for package: /Game/3100/3100/UI/GameStart
+[2024.07.12-00.47.39:025][354]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/GameStartC87F5D7F4CCC90F7F81705A26CBF2E44.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/GameStart.uasset'
+[2024.07.12-00.47.39:030][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 1.84 sec)
+[2024.07.12-00.47.39:034][354]AssetCheck: New page: Asset Save: GameStart
+[2024.07.12-00.47.39:034][354]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/3100/3100/UI/GameStart.GameStart
+[2024.07.12-00.47.39:464][406]BlueprintLog: New page: Compile GameStart
+[2024.07.12-00.47.39:480][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.07.12-00.47.40:632][461]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.12-00.47.40:636][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-00.47.40:636][461]PIE: New page: PIE session: 3100 (Jul 11, 2024, 12:47:40 PM)
+[2024.07.12-00.47.40:661][461]LogPlayLevel: Creating play world package: /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.47.40:667][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005458s)
+[2024.07.12-00.47.40:667][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3100/3100/Level/3100.3100 to /Game/3100/3100/Level/UEDPIE_0_3100.3100 (0.005488s)
+[2024.07.12-00.47.40:673][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.07.12-00.47.40:675][461]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.47.40:675][461]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-00.47.40:676][461]LogAIModule: Creating AISystem for world 3100
+[2024.07.12-00.47.40:676][461]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2024.07.12-00.47.40:676][461]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.07.12-00.47.40:676][461]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-00.47.40:676][461]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-00.47.40:676][461]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-00.47.40:676][461]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-00.47.40:676][461]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.12-00.47.40:676][461]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-00.47.40:676][461]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.12-00.47.40:676][461]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-00.47.40:676][461]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-00.47.40:676][461]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-00.47.40:676][461]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-00.47.40:678][461]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.12-00.47.40:691][461]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.12-00.47.40:691][461]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-00.47.40:691][461]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-00.47.40:691][461]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-00.47.40:692][461]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.07.12-00.47.40:692][461]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.07.12-00.47.40:693][461]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.07.12-00.47.40:693][461]LogInit: FAudioDevice initialized with ID 10.
+[2024.07.12-00.47.40:693][461]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.07.12-00.47.40:693][461]LogAudio: Display: Audio Device (ID: 10) registered with world '3100'.
+[2024.07.12-00.47.40:693][461]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.07.12-00.47.40:695][461]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.12-00.47.40:698][461]LogWorld: Bringing World /Game/3100/3100/Level/UEDPIE_0_3100.3100 up for play (max tick rate 0) at 2024.07.11-18.47.40
+[2024.07.12-00.47.40:698][461]LogWorld: Bringing up level for play took: 0.002164
+[2024.07.12-00.47.40:699][461]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.07.12-00.47.40:703][461]PIE: Server logged in
+[2024.07.12-00.47.40:703][461]PIE: Play in editor total start time 0.067 seconds.
+[2024.07.12-00.47.44:681][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.47.44:681][666]LogWorld: BeginTearingDown for /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.47.44:681][666]LogWorld: UWorld::CleanupWorld for 3100, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-00.47.44:681][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.47.44:689][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-00.47.44:692][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.47.44:702][666]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.12-00.47.44:702][666]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.07.12-00.47.44:702][666]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.07.12-00.47.44:703][666]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.07.12-00.47.44:707][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.47.44:709][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.07.12-00.47.44:767][667]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.07.12-00.47.46:615][792]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.47.46:655][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Level/3100" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Level/3100.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.12-00.47.46:688][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.07.12-00.47.46:710][792]LogSavePackage: Moving output files for package: /Game/3100/3100/Level/3100
+[2024.07.12-00.47.46:711][792]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/3100A14974564678B7E4F14E28957199004F.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Level/3100.umap'
+[2024.07.12-00.47.46:713][792]LogFileHelpers: All files are already saved.
+[2024.07.12-00.47.46:718][792]LogFileHelpers: Saving map '3100' took 0.063
+[2024.07.12-00.47.46:722][792]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 1.95 sec)
+[2024.07.12-00.47.46:724][792]AssetCheck: New page: Asset Save: 3100
+[2024.07.12-00.47.46:724][792]LogContentValidation: Display: Validating /Script/Engine.World /Game/3100/3100/Level/3100.3100
+[2024.07.12-00.48.33:678][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.48.33:720][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/UI/GameStart" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/GameStart.uasset" SILENT=true
+[2024.07.12-00.48.33:724][194]LogSavePackage: Moving output files for package: /Game/3100/3100/UI/GameStart
+[2024.07.12-00.48.33:724][194]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/GameStart09B0F87C400315458D32C9A982C1A38A.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/GameStart.uasset'
+[2024.07.12-00.48.33:729][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 2.00 sec)
+[2024.07.12-00.48.33:733][194]AssetCheck: New page: Asset Save: GameStart
+[2024.07.12-00.48.33:733][194]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/3100/3100/UI/GameStart.GameStart
+[2024.07.12-00.48.35:653][423]BlueprintLog: New page: Compile GameStart
+[2024.07.12-00.48.35:656][423]LogBlueprint: Error: [AssetLog] C:\Users\u1371722\Documents\GitHub\JasmineR\Content\3100\3100\UI\GameStart.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2024.07.12-00.48.35:670][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.07.12-00.48.42:978][966]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.07.12-00.48.46:660][ 55]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.07.12-00.48.46:666][ 55]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.07.12-00.48.46:673][ 55]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.07.12-00.48.46:683][ 56]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.07.12-00.48.48:637][151]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Help
+[2024.07.12-00.48.48:642][151]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.07.12-00.48.51:215][269]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/3100/3100/UI/Help.Help
+[2024.07.12-00.48.51:215][269]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.48.51:216][269]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-00.48.51:236][269]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.48.51:236][269]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-00.49.08:072][205]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.49.08:102][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/UI/Help" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/Help.uasset" SILENT=true
+[2024.07.12-00.49.08:104][205]LogSavePackage: Moving output files for package: /Game/3100/3100/UI/Help
+[2024.07.12-00.49.08:104][205]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/Help27D90A4D4048C6FD5C1A4E84256D3872.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/Help.uasset'
+[2024.07.12-00.49.08:109][205]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 2.04 sec)
+[2024.07.12-00.49.08:110][205]AssetCheck: New page: Asset Save: Help
+[2024.07.12-00.49.08:110][205]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/3100/3100/UI/Help.Help
+[2024.07.12-00.49.11:830][649]BlueprintLog: New page: Compile Help
+[2024.07.12-00.49.11:845][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.07.12-00.49.12:215][676]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.49.12:269][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/UI/Help" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/Help.uasset" SILENT=true
+[2024.07.12-00.49.12:272][676]LogSavePackage: Moving output files for package: /Game/3100/3100/UI/Help
+[2024.07.12-00.49.12:272][676]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/Help4813F48D4427C6F7C51E8E8E71E5FC73.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/Help.uasset'
+[2024.07.12-00.49.12:276][676]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 2.10 sec)
+[2024.07.12-00.49.12:279][676]AssetCheck: New page: Asset Save: Help
+[2024.07.12-00.49.12:279][676]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/3100/3100/UI/Help.Help
+[2024.07.12-00.49.13:196][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.49.13:268][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Level/3100" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Level/3100.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.12-00.49.13:301][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.07.12-00.49.13:322][733]LogSavePackage: Moving output files for package: /Game/3100/3100/Level/3100
+[2024.07.12-00.49.13:323][733]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/3100045E7284400D9C5AE55EAB820AC1F360.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Level/3100.umap'
+[2024.07.12-00.49.13:325][733]LogFileHelpers: All files are already saved.
+[2024.07.12-00.49.13:329][733]LogFileHelpers: Saving map '3100' took 0.062
+[2024.07.12-00.49.13:334][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 2.24 sec)
+[2024.07.12-00.49.13:335][733]AssetCheck: New page: Asset Save: 3100
+[2024.07.12-00.49.13:335][733]LogContentValidation: Display: Validating /Script/Engine.World /Game/3100/3100/Level/3100.3100
+[2024.07.12-00.49.14:605][795]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.12-00.49.14:610][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-00.49.14:610][795]BlueprintLog: Warning: Blueprint failed to compile:  GameStart
+[2024.07.12-00.49.16:008][795]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.07.12-00.49.17:949][957]LogSlate: Window 'Message Log' being destroyed
+[2024.07.12-00.49.17:953][957]LogSlate: Window 'Message Log' being destroyed
+[2024.07.12-00.49.21:945][413]BlueprintLog: New page: Compile GameStart
+[2024.07.12-00.49.21:962][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.07.12-00.49.23:835][551]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.12-00.49.23:839][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-00.49.23:839][551]PIE: New page: PIE session: 3100 (Jul 11, 2024, 12:49:23 PM)
+[2024.07.12-00.49.23:839][551]LogPlayLevel: Creating play world package: /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.49.23:846][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006631s)
+[2024.07.12-00.49.23:846][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3100/3100/Level/3100.3100 to /Game/3100/3100/Level/UEDPIE_0_3100.3100 (0.006672s)
+[2024.07.12-00.49.23:858][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.07.12-00.49.23:860][551]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.49.23:860][551]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-00.49.23:860][551]LogAIModule: Creating AISystem for world 3100
+[2024.07.12-00.49.23:860][551]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2024.07.12-00.49.23:860][551]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.07.12-00.49.23:860][551]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-00.49.23:861][551]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-00.49.23:861][551]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-00.49.23:861][551]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-00.49.23:861][551]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.12-00.49.23:861][551]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-00.49.23:861][551]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.12-00.49.23:861][551]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-00.49.23:861][551]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-00.49.23:861][551]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-00.49.23:861][551]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-00.49.23:862][551]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.12-00.49.23:877][551]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.12-00.49.23:877][551]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-00.49.23:877][551]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-00.49.23:877][551]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-00.49.23:877][551]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.07.12-00.49.23:877][551]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.07.12-00.49.23:879][551]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.07.12-00.49.23:879][551]LogInit: FAudioDevice initialized with ID 11.
+[2024.07.12-00.49.23:879][551]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.07.12-00.49.23:879][551]LogAudio: Display: Audio Device (ID: 11) registered with world '3100'.
+[2024.07.12-00.49.23:879][551]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.07.12-00.49.23:881][551]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.12-00.49.23:884][551]LogWorld: Bringing World /Game/3100/3100/Level/UEDPIE_0_3100.3100 up for play (max tick rate 0) at 2024.07.11-18.49.23
+[2024.07.12-00.49.23:884][551]LogWorld: Bringing up level for play took: 0.002401
+[2024.07.12-00.49.23:886][551]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.07.12-00.49.23:888][551]PIE: Server logged in
+[2024.07.12-00.49.23:889][551]PIE: Play in editor total start time 0.05 seconds.
+[2024.07.12-00.49.26:125][668]Cmd: quit
+[2024.07.12-00.49.26:126][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.49.26:126][668]LogWorld: BeginTearingDown for /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.49.26:126][668]LogWorld: UWorld::CleanupWorld for 3100, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-00.49.26:127][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.49.26:159][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-00.49.26:162][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.49.26:170][668]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.12-00.49.26:171][668]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.07.12-00.49.26:171][668]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.07.12-00.49.26:172][668]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.07.12-00.49.26:176][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.49.26:178][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.07.12-00.49.26:286][669]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.07.12-00.49.27:367][722]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.12-00.49.27:372][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-00.49.27:372][722]PIE: New page: PIE session: 3100 (Jul 11, 2024, 12:49:27 PM)
+[2024.07.12-00.49.27:372][722]LogPlayLevel: Creating play world package: /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.49.27:380][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007776s)
+[2024.07.12-00.49.27:380][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3100/3100/Level/3100.3100 to /Game/3100/3100/Level/UEDPIE_0_3100.3100 (0.007835s)
+[2024.07.12-00.49.27:389][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.07.12-00.49.27:391][722]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.49.27:391][722]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-00.49.27:391][722]LogAIModule: Creating AISystem for world 3100
+[2024.07.12-00.49.27:391][722]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2024.07.12-00.49.27:391][722]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.07.12-00.49.27:391][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-00.49.27:391][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-00.49.27:391][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-00.49.27:391][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-00.49.27:391][722]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.12-00.49.27:392][722]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-00.49.27:392][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.12-00.49.27:392][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-00.49.27:392][722]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-00.49.27:392][722]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-00.49.27:392][722]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-00.49.27:394][722]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.12-00.49.27:410][722]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.12-00.49.27:411][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-00.49.27:411][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-00.49.27:411][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-00.49.27:412][722]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.07.12-00.49.27:412][722]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.07.12-00.49.27:413][722]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.07.12-00.49.27:413][722]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.07.12-00.49.27:413][722]LogInit: FAudioDevice initialized with ID 12.
+[2024.07.12-00.49.27:413][722]LogAudio: Display: Audio Device (ID: 12) registered with world '3100'.
+[2024.07.12-00.49.27:413][722]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.07.12-00.49.27:416][722]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.12-00.49.27:418][722]LogWorld: Bringing World /Game/3100/3100/Level/UEDPIE_0_3100.3100 up for play (max tick rate 0) at 2024.07.11-18.49.27
+[2024.07.12-00.49.27:419][722]LogWorld: Bringing up level for play took: 0.002535
+[2024.07.12-00.49.27:420][722]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.07.12-00.49.27:423][722]PIE: Server logged in
+[2024.07.12-00.49.27:424][722]PIE: Play in editor total start time 0.052 seconds.
+[2024.07.12-00.49.29:059][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.49.29:059][802]LogWorld: BeginTearingDown for /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.49.29:060][802]LogWorld: UWorld::CleanupWorld for 3100, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-00.49.29:061][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.49.29:063][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-00.49.29:066][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.49.29:077][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.49.29:078][802]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.07.12-00.49.29:078][802]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.07.12-00.49.29:080][802]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.07.12-00.49.29:086][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.07.12-00.49.29:129][803]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.07.12-00.49.29:363][817]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.12-00.49.29:367][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-00.49.29:367][817]PIE: New page: PIE session: 3100 (Jul 11, 2024, 12:49:29 PM)
+[2024.07.12-00.49.29:367][817]LogPlayLevel: Creating play world package: /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.49.29:374][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006175s)
+[2024.07.12-00.49.29:374][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3100/3100/Level/3100.3100 to /Game/3100/3100/Level/UEDPIE_0_3100.3100 (0.006247s)
+[2024.07.12-00.49.29:382][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.07.12-00.49.29:384][817]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.49.29:384][817]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-00.49.29:384][817]LogAIModule: Creating AISystem for world 3100
+[2024.07.12-00.49.29:385][817]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2024.07.12-00.49.29:385][817]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.07.12-00.49.29:385][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-00.49.29:385][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-00.49.29:385][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-00.49.29:385][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-00.49.29:385][817]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.12-00.49.29:385][817]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-00.49.29:385][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.12-00.49.29:385][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-00.49.29:385][817]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-00.49.29:385][817]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-00.49.29:385][817]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-00.49.29:387][817]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.12-00.49.29:402][817]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.12-00.49.29:402][817]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-00.49.29:402][817]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-00.49.29:402][817]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-00.49.29:402][817]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.07.12-00.49.29:402][817]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.07.12-00.49.29:404][817]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.07.12-00.49.29:404][817]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.07.12-00.49.29:404][817]LogInit: FAudioDevice initialized with ID 13.
+[2024.07.12-00.49.29:404][817]LogAudio: Display: Audio Device (ID: 13) registered with world '3100'.
+[2024.07.12-00.49.29:404][817]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.07.12-00.49.29:406][817]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.12-00.49.29:409][817]LogWorld: Bringing World /Game/3100/3100/Level/UEDPIE_0_3100.3100 up for play (max tick rate 0) at 2024.07.11-18.49.29
+[2024.07.12-00.49.29:409][817]LogWorld: Bringing up level for play took: 0.002416
+[2024.07.12-00.49.29:411][817]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.07.12-00.49.29:414][817]PIE: Server logged in
+[2024.07.12-00.49.29:414][817]PIE: Play in editor total start time 0.047 seconds.
+[2024.07.12-00.49.31:199][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.49.31:199][907]LogWorld: BeginTearingDown for /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.49.31:199][907]LogWorld: UWorld::CleanupWorld for 3100, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-00.49.31:200][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.49.31:213][907]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-00.49.31:216][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.49.31:224][907]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.12-00.49.31:224][907]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.07.12-00.49.31:224][907]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.07.12-00.49.31:226][907]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.07.12-00.49.31:229][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.49.31:232][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.07.12-00.49.31:290][908]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.07.12-00.49.55:303][600]BlueprintLog: New page: Compile Help
+[2024.07.12-00.49.55:319][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.07.12-00.50.18:644][714]LogViewport: Scene viewport resized to 2476x1800, mode Windowed.
+[2024.07.12-00.50.22:793][978]LogViewport: Scene viewport resized to 3150x1800, mode Windowed.
+[2024.07.12-00.50.33:245][345]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.07.12-00.50.33:251][345]LogContentBrowser: Deferred new asset file creation: NewBlueprint1
+[2024.07.12-00.50.33:257][345]LogContentBrowser: Creating deferred item: NewBlueprint1
+[2024.07.12-00.50.33:258][346]LogAutomationController: Ignoring very large delta of 2.92 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.07.12-00.50.33:266][346]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint1).
+[2024.07.12-00.50.39:121][637]LogContentBrowser: Attempting asset rename: NewBlueprint1 -> DeadBody
+[2024.07.12-00.50.39:127][637]LogContentBrowser: End creating deferred item NewBlueprint1
+[2024.07.12-00.50.40:258][690]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/3100/3100/BP/DeadBody.DeadBody
+[2024.07.12-00.50.40:259][690]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.50.40:259][690]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-00.50.40:396][690]LogViewport: Scene viewport resized to 2282x1380, mode Windowed.
+[2024.07.12-00.50.43:401][ 32]LogSlate: Took 0.000087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.07.12-00.50.43:408][ 33]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.50.43:439][ 34]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.50.44:908][194]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny_Simple) ...
+[2024.07.12-00.50.44:916][194]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.50.44:947][195]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.50.46:745][367]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny) ...
+[2024.07.12-00.50.46:831][368]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.51.01:451][ 50]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2024.07.12-00.51.04:597][387]LogEditorClassViewer: Warning: Class /Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.PLACEHOLDER-CLASS__TutorialCharacter_C_0 has parent , but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.07.12-00.51.10:894][ 87]LogEditorClassViewer: Warning: Class /Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.PLACEHOLDER-CLASS__TutorialCharacter_C_0 has parent , but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.07.12-00.51.32:223][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.51.32:273][477]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.51.32:290][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/BP/DeadBody" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/BP/DeadBody.uasset" SILENT=true
+[2024.07.12-00.51.32:294][477]LogSavePackage: Moving output files for package: /Game/3100/3100/BP/DeadBody
+[2024.07.12-00.51.32:294][477]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/DeadBodyAFA3BF2845BBE9FBCAD9D9902097397F.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/BP/DeadBody.uasset'
+[2024.07.12-00.51.32:300][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 2.31 sec)
+[2024.07.12-00.51.32:301][477]AssetCheck: New page: Asset Save: DeadBody
+[2024.07.12-00.51.32:301][477]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3100/3100/BP/DeadBody.DeadBody
+[2024.07.12-00.51.32:960][556]BlueprintLog: New page: Compile DeadBody
+[2024.07.12-00.51.33:100][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.07.12-00.51.35:927][659]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3100/3100/BP/DeadBody.DeadBody_C
+[2024.07.12-00.51.35:927][659]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3100/3100/BP/DeadBody.DeadBody_C
+[2024.07.12-00.51.35:934][659]LogActorFactory: Actor Factory spawned Blueprint /Game/3100/3100/BP/DeadBody.DeadBody as actor: DeadBody_C /Game/3100/3100/Level/3100.3100:PersistentLevel.DeadBody_C_0
+[2024.07.12-00.51.35:938][659]LogActorFactory: Actor Factory spawned Blueprint /Game/3100/3100/BP/DeadBody.DeadBody as actor: DeadBody_C /Game/3100/3100/Level/3100.3100:PersistentLevel.DeadBody_C_0
+[2024.07.12-00.51.35:947][659]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.07.12-00.51.36:213][671]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3100/3100/BP/DeadBody.DeadBody_C
+[2024.07.12-00.51.36:213][671]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/3100/3100/BP/DeadBody.DeadBody_C
+[2024.07.12-00.51.36:222][671]LogActorFactory: Actor Factory spawned Blueprint /Game/3100/3100/BP/DeadBody.DeadBody as actor: DeadBody_C /Game/3100/3100/Level/3100.3100:PersistentLevel.DeadBody_C_1
+[2024.07.12-00.51.36:225][671]LogActorFactory: Actor Factory spawned Blueprint /Game/3100/3100/BP/DeadBody.DeadBody as actor: DeadBody_C /Game/3100/3100/Level/3100.3100:PersistentLevel.DeadBody_C_1
+[2024.07.12-00.51.39:821][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.51.39:903][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Level/3100" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Level/3100.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.12-00.51.39:942][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.07.12-00.51.39:970][836]LogSavePackage: Moving output files for package: /Game/3100/3100/Level/3100
+[2024.07.12-00.51.39:970][836]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/31000B322887423AED1DC87464B29EA2ECE6.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Level/3100.umap'
+[2024.07.12-00.51.39:973][836]LogFileHelpers: All files are already saved.
+[2024.07.12-00.51.39:978][836]LogFileHelpers: Saving map '3100' took 0.076
+[2024.07.12-00.51.39:994][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 2.49 sec)
+[2024.07.12-00.51.39:996][836]AssetCheck: New page: Asset Save: 3100
+[2024.07.12-00.51.39:996][836]LogContentValidation: Display: Validating /Script/Engine.World /Game/3100/3100/Level/3100.3100
+[2024.07.12-00.51.49:857][888]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.51.49:904][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/BP/DeadBody" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/BP/DeadBody.uasset" SILENT=true
+[2024.07.12-00.51.49:907][888]LogSavePackage: Moving output files for package: /Game/3100/3100/BP/DeadBody
+[2024.07.12-00.51.49:908][888]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/DeadBodyCFCDE6464C690CC017AFA9963C98A579.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/BP/DeadBody.uasset'
+[2024.07.12-00.51.49:913][888]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 2.54 sec)
+[2024.07.12-00.51.49:915][888]AssetCheck: New page: Asset Save: DeadBody
+[2024.07.12-00.51.49:915][888]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3100/3100/BP/DeadBody.DeadBody
+[2024.07.12-00.51.50:405][945]BlueprintLog: New page: Compile DeadBody
+[2024.07.12-00.51.50:497][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.07.12-00.52.01:468][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.52.01:521][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/BP/DeadBody" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/BP/DeadBody.uasset" SILENT=true
+[2024.07.12-00.52.01:524][ 84]LogSavePackage: Moving output files for package: /Game/3100/3100/BP/DeadBody
+[2024.07.12-00.52.01:524][ 84]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/DeadBodyF12ECD154E137EBD34FF49BA36A16E29.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/BP/DeadBody.uasset'
+[2024.07.12-00.52.01:529][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 2.60 sec)
+[2024.07.12-00.52.01:531][ 84]AssetCheck: New page: Asset Save: DeadBody
+[2024.07.12-00.52.01:531][ 84]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3100/3100/BP/DeadBody.DeadBody
+[2024.07.12-00.52.02:249][168]BlueprintLog: New page: Compile DeadBody
+[2024.07.12-00.52.02:347][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.07.12-00.52.45:553][444]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.52.59:090][662]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.07.12-00.52.59:096][662]LogContentBrowser: Deferred new asset file creation: NewBlueprint1
+[2024.07.12-00.52.59:102][662]LogContentBrowser: Creating deferred item: NewBlueprint1
+[2024.07.12-00.52.59:103][663]LogAutomationController: Ignoring very large delta of 8.89 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.07.12-00.52.59:110][663]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint1).
+[2024.07.12-00.53.06:597][ 37]LogContentBrowser: Attempting asset rename: NewBlueprint1 -> BP_Controller
+[2024.07.12-00.53.06:603][ 37]LogContentBrowser: End creating deferred item NewBlueprint1
+[2024.07.12-00.53.07:847][ 95]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/3100/3100/BP/BP_Controller.BP_Controller
+[2024.07.12-00.53.07:848][ 95]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.53.07:848][ 95]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-00.53.07:976][ 95]LogViewport: Scene viewport resized to 2282x1380, mode Windowed.
+[2024.07.12-00.53.25:497][ 17]BlueprintLog: New page: Compile BP_Controller
+[2024.07.12-00.53.25:498][ 17]LogBlueprint: Error: [AssetLog] /Game/3100/3100/BP/BP_Controller.BP_Controller: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2024.07.12-00.53.25:521][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.07.12-00.53.29:737][223]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.07.12-00.53.29:738][223]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.53.29:738][223]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-00.53.44:281][994]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.12-00.53.44:285][994]BlueprintLog: Warning: Blueprint failed to compile:  BP_Controller
+[2024.07.12-00.53.44:285][994]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.07.12-00.53.44:286][994]LogPlayLevel: [PlayLevel] Compiling DeadBody before play...
+[2024.07.12-00.53.44:418][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.07.12-00.53.44:420][994]LogPlayLevel: PlayLevel: Blueprint regeneration took 134 ms (1 blueprints)
+[2024.07.12-00.53.46:150][994]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.07.12-00.53.59:263][815]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.07.12-00.53.59:269][815]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.07.12-00.53.59:277][815]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.07.12-00.53.59:289][816]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.07.12-00.54.04:107][ 61]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> DeadBody
+[2024.07.12-00.54.04:113][ 61]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.07.12-00.54.05:586][134]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/3100/3100/UI/DeadBody.DeadBody
+[2024.07.12-00.54.05:586][134]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.54.05:586][134]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-00.54.05:603][134]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.54.05:603][134]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-00.54.24:088][282]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.54.24:132][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/UI/DeadBody" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/DeadBody.uasset" SILENT=true
+[2024.07.12-00.54.24:134][282]LogSavePackage: Moving output files for package: /Game/3100/3100/UI/DeadBody
+[2024.07.12-00.54.24:134][282]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/DeadBody4FE8C8B44E45B4008BB521AD8816F2A3.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/DeadBody.uasset'
+[2024.07.12-00.54.24:141][282]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 2.66 sec)
+[2024.07.12-00.54.24:142][282]AssetCheck: New page: Asset Save: DeadBody
+[2024.07.12-00.54.24:142][282]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/3100/3100/UI/DeadBody.DeadBody
+[2024.07.12-00.54.25:991][499]BlueprintLog: New page: Compile DeadBody
+[2024.07.12-00.54.26:011][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.07.12-00.54.34:233][232]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.54.34:279][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/BP/BP_Controller" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/BP/BP_Controller.uasset" SILENT=true
+[2024.07.12-00.54.34:281][232]LogSavePackage: Moving output files for package: /Game/3100/3100/BP/BP_Controller
+[2024.07.12-00.54.34:281][232]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/BP_ControllerBF6A65744E34A735B387ABA964BF07E7.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/BP/BP_Controller.uasset'
+[2024.07.12-00.54.34:287][232]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 2.71 sec)
+[2024.07.12-00.54.34:287][232]AssetCheck: New page: Asset Save: BP_Controller
+[2024.07.12-00.54.34:287][232]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3100/3100/BP/BP_Controller.BP_Controller
+[2024.07.12-00.54.35:691][400]BlueprintLog: New page: Compile BP_Controller
+[2024.07.12-00.54.35:707][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.07.12-00.55.56:988][184]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.07.12-00.55.56:996][184]LogContentBrowser: Deferred new asset file creation: NewBlueprint1
+[2024.07.12-00.55.57:004][184]LogContentBrowser: Creating deferred item: NewBlueprint1
+[2024.07.12-00.55.57:015][185]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint1).
+[2024.07.12-00.55.57:986][235]LogContentBrowser: Attempting asset rename: NewBlueprint1 -> NewBlueprint1
+[2024.07.12-00.55.57:992][235]LogContentBrowser: End creating deferred item NewBlueprint1
+[2024.07.12-00.55.58:308][251]Cmd: TRANSACTION UNDO
+[2024.07.12-00.55.58:308][251]LogEditorTransaction: Undo Change Bool Pin Value
+[2024.07.12-00.55.59:839][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.07.12-00.56.00:744][309]LogSlate: Window 'Delete Assets' being destroyed
+[2024.07.12-00.56.00:762][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.07.12-00.56.00:770][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.07.12-00.56.00:779][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.07.12-00.56.07:162][443]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.07.12-00.56.07:179][444]LogAutomationController: Ignoring very large delta of 3.51 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.07.12-00.56.25:369][322]Cmd: TRANSACTION UNDO
+[2024.07.12-00.56.25:369][322]LogEditorTransaction: Undo Move Node
+[2024.07.12-00.56.34:913][757]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.56.34:940][758]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.56.34:970][759]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.56.35:000][760]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.56.56:030][611]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2024.07.12-00.56.56:061][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.07.12-00.57.13:618][531]BlueprintLog: New page: Compile DeadBody
+[2024.07.12-00.57.13:667][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.07.12-00.57.14:956][670]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.57.15:012][670]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2024.07.12-00.57.15:012][670]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/BP_ThirdPersonGameMode774FE0EB4641F1F2614AED8462894535.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2024.07.12-00.57.15:018][670]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 2.77 sec)
+[2024.07.12-00.57.15:019][670]AssetCheck: New page: Asset Save: BP_ThirdPersonGameMode
+[2024.07.12-00.57.15:019][670]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.07.12-00.57.28:534][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.57.28:596][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Level/3100" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Level/3100.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.12-00.57.28:636][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.07.12-00.57.28:663][115]LogSavePackage: Moving output files for package: /Game/3100/3100/Level/3100
+[2024.07.12-00.57.28:663][115]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/310052E0BB5F4EA38D8DD12637ABC5C33728.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Level/3100.umap'
+[2024.07.12-00.57.28:666][115]LogFileHelpers: All files are already saved.
+[2024.07.12-00.57.28:671][115]LogFileHelpers: Saving map '3100' took 0.076
+[2024.07.12-00.57.28:676][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 2.91 sec)
+[2024.07.12-00.57.28:678][115]AssetCheck: New page: Asset Save: 3100
+[2024.07.12-00.57.28:678][115]LogContentValidation: Display: Validating /Script/Engine.World /Game/3100/3100/Level/3100.3100
+[2024.07.12-00.57.31:107][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-00.57.31:107][236]PIE: New page: PIE session: 3100 (Jul 11, 2024, 12:57:31 PM)
+[2024.07.12-00.57.31:107][236]LogPlayLevel: Creating play world package: /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.57.31:114][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006719s)
+[2024.07.12-00.57.31:114][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3100/3100/Level/3100.3100 to /Game/3100/3100/Level/UEDPIE_0_3100.3100 (0.006748s)
+[2024.07.12-00.57.31:127][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.07.12-00.57.31:128][236]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.57.31:128][236]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-00.57.31:128][236]LogAIModule: Creating AISystem for world 3100
+[2024.07.12-00.57.31:129][236]LogPlayLevel: PIE: World Init took: (0.001006s)
+[2024.07.12-00.57.31:129][236]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.07.12-00.57.31:129][236]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-00.57.31:129][236]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-00.57.31:129][236]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-00.57.31:129][236]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-00.57.31:129][236]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.12-00.57.31:129][236]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-00.57.31:129][236]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.12-00.57.31:129][236]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-00.57.31:129][236]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-00.57.31:129][236]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-00.57.31:129][236]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-00.57.31:132][236]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.12-00.57.31:148][236]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.12-00.57.31:148][236]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-00.57.31:148][236]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-00.57.31:148][236]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-00.57.31:149][236]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.07.12-00.57.31:149][236]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.07.12-00.57.31:150][236]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.07.12-00.57.31:150][236]LogInit: FAudioDevice initialized with ID 14.
+[2024.07.12-00.57.31:150][236]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.07.12-00.57.31:150][236]LogAudio: Display: Audio Device (ID: 14) registered with world '3100'.
+[2024.07.12-00.57.31:150][236]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.07.12-00.57.31:153][236]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.12-00.57.31:159][236]LogWorld: Bringing World /Game/3100/3100/Level/UEDPIE_0_3100.3100 up for play (max tick rate 0) at 2024.07.11-18.57.31
+[2024.07.12-00.57.31:160][236]LogWorld: Bringing up level for play took: 0.006342
+[2024.07.12-00.57.31:162][236]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.07.12-00.57.31:165][236]PIE: Server logged in
+[2024.07.12-00.57.31:166][236]PIE: Play in editor total start time 0.059 seconds.
+[2024.07.12-00.57.34:412][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.57.34:412][417]LogWorld: BeginTearingDown for /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.57.34:413][417]LogWorld: UWorld::CleanupWorld for 3100, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-00.57.34:413][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.57.34:423][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-00.57.34:427][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.57.34:436][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.57.34:437][417]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.07.12-00.57.34:437][417]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.07.12-00.57.34:439][417]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.07.12-00.57.34:446][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.07.12-00.57.34:511][418]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.07.12-00.57.36:053][492]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.12-00.57.36:058][492]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-00.57.36:058][492]PIE: New page: PIE session: 3100 (Jul 11, 2024, 12:57:36 PM)
+[2024.07.12-00.57.36:058][492]LogPlayLevel: Creating play world package: /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.57.36:065][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007160s)
+[2024.07.12-00.57.36:065][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3100/3100/Level/3100.3100 to /Game/3100/3100/Level/UEDPIE_0_3100.3100 (0.007190s)
+[2024.07.12-00.57.36:074][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.07.12-00.57.36:076][492]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.57.36:076][492]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-00.57.36:077][492]LogAIModule: Creating AISystem for world 3100
+[2024.07.12-00.57.36:077][492]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2024.07.12-00.57.36:077][492]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.07.12-00.57.36:077][492]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-00.57.36:077][492]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-00.57.36:077][492]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-00.57.36:077][492]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-00.57.36:077][492]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.12-00.57.36:077][492]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-00.57.36:077][492]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.12-00.57.36:077][492]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-00.57.36:077][492]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-00.57.36:077][492]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-00.57.36:077][492]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-00.57.36:079][492]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.12-00.57.36:094][492]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.12-00.57.36:094][492]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-00.57.36:094][492]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-00.57.36:094][492]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-00.57.36:095][492]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.07.12-00.57.36:095][492]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.07.12-00.57.36:096][492]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.07.12-00.57.36:097][492]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.07.12-00.57.36:097][492]LogInit: FAudioDevice initialized with ID 15.
+[2024.07.12-00.57.36:097][492]LogAudio: Display: Audio Device (ID: 15) registered with world '3100'.
+[2024.07.12-00.57.36:097][492]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.07.12-00.57.36:099][492]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.12-00.57.36:106][492]LogWorld: Bringing World /Game/3100/3100/Level/UEDPIE_0_3100.3100 up for play (max tick rate 0) at 2024.07.11-18.57.36
+[2024.07.12-00.57.36:106][492]LogWorld: Bringing up level for play took: 0.006768
+[2024.07.12-00.57.36:108][492]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.07.12-00.57.36:111][492]PIE: Server logged in
+[2024.07.12-00.57.36:112][492]PIE: Play in editor total start time 0.054 seconds.
+[2024.07.12-00.57.37:462][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.57.37:462][556]LogWorld: BeginTearingDown for /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.57.37:462][556]LogWorld: UWorld::CleanupWorld for 3100, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-00.57.37:463][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.57.37:477][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-00.57.37:481][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.57.37:491][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.57.37:492][556]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.07.12-00.57.37:492][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.07.12-00.57.37:494][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.07.12-00.57.37:500][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.07.12-00.57.37:560][557]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.07.12-00.57.55:289][492]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.57.55:345][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/BP/BP_Controller" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/BP/BP_Controller.uasset" SILENT=true
+[2024.07.12-00.57.55:347][492]LogSavePackage: Moving output files for package: /Game/3100/3100/BP/BP_Controller
+[2024.07.12-00.57.55:347][492]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/BP_ControllerA51679614D5A886A850815BCB9FA1DC7.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/BP/BP_Controller.uasset'
+[2024.07.12-00.57.55:352][492]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 2.98 sec)
+[2024.07.12-00.57.55:355][492]AssetCheck: New page: Asset Save: BP_Controller
+[2024.07.12-00.57.55:355][492]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3100/3100/BP/BP_Controller.BP_Controller
+[2024.07.12-00.57.55:776][539]BlueprintLog: New page: Compile BP_Controller
+[2024.07.12-00.57.55:797][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.07.12-00.58.00:779][ 31]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.12-00.58.00:786][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-00.58.00:786][ 31]PIE: New page: PIE session: 3100 (Jul 11, 2024, 12:58:00 PM)
+[2024.07.12-00.58.00:786][ 31]LogPlayLevel: Creating play world package: /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.58.00:795][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008521s)
+[2024.07.12-00.58.00:795][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3100/3100/Level/3100.3100 to /Game/3100/3100/Level/UEDPIE_0_3100.3100 (0.008643s)
+[2024.07.12-00.58.00:808][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.07.12-00.58.00:809][ 31]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-00.58.00:809][ 31]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-00.58.00:810][ 31]LogAIModule: Creating AISystem for world 3100
+[2024.07.12-00.58.00:810][ 31]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2024.07.12-00.58.00:810][ 31]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.07.12-00.58.00:810][ 31]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-00.58.00:810][ 31]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-00.58.00:810][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-00.58.00:810][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-00.58.00:810][ 31]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.12-00.58.00:810][ 31]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-00.58.00:810][ 31]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.12-00.58.00:810][ 31]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-00.58.00:811][ 31]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-00.58.00:811][ 31]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-00.58.00:811][ 31]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-00.58.00:812][ 31]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.12-00.58.00:824][ 31]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.12-00.58.00:824][ 31]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-00.58.00:824][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-00.58.00:824][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-00.58.00:825][ 31]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.07.12-00.58.00:825][ 31]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.07.12-00.58.00:826][ 31]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.07.12-00.58.00:826][ 31]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.07.12-00.58.00:826][ 31]LogInit: FAudioDevice initialized with ID 16.
+[2024.07.12-00.58.00:826][ 31]LogAudio: Display: Audio Device (ID: 16) registered with world '3100'.
+[2024.07.12-00.58.00:826][ 31]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.07.12-00.58.00:829][ 31]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.12-00.58.00:834][ 31]LogWorld: Bringing World /Game/3100/3100/Level/UEDPIE_0_3100.3100 up for play (max tick rate 0) at 2024.07.11-18.58.00
+[2024.07.12-00.58.00:835][ 31]LogWorld: Bringing up level for play took: 0.005665
+[2024.07.12-00.58.00:836][ 31]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.07.12-00.58.00:839][ 31]PIE: Server logged in
+[2024.07.12-00.58.00:840][ 31]PIE: Play in editor total start time 0.055 seconds.
+[2024.07.12-00.58.02:421][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.58.02:421][107]LogWorld: BeginTearingDown for /Game/3100/3100/Level/UEDPIE_0_3100
+[2024.07.12-00.58.02:422][107]LogWorld: UWorld::CleanupWorld for 3100, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-00.58.02:423][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.58.02:430][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-00.58.02:434][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-00.58.02:443][107]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.12-00.58.02:443][107]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.07.12-00.58.02:443][107]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.07.12-00.58.02:445][107]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.07.12-00.58.02:449][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-00.58.02:452][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.07.12-00.58.02:514][108]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.07.12-00.58.49:682][623]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.07.12-00.58.49:682][623]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.07.12-00.58.57:260][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.07.12-00.58.58:074][523]LogSlate: Window 'Save Content' being destroyed
+[2024.07.12-00.58.58:080][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-00.58.58:125][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Level/3100" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Level/3100.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.12-00.58.58:157][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.07.12-00.58.58:178][523]LogSavePackage: Moving output files for package: /Game/3100/3100/Level/3100
+[2024.07.12-00.58.58:179][523]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/3100EF3572044EA4961A1C1ABDBA16756811.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Level/3100.umap'
+[2024.07.12-00.58.58:181][523]LogFileHelpers: All files are already saved.
+[2024.07.12-00.58.58:186][523]LogFileHelpers: Saving map '3100' took 0.061
+[2024.07.12-00.58.58:248][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/BP/DeadBody" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/BP/DeadBody.uasset" SILENT=true
+[2024.07.12-00.58.58:252][523]LogSavePackage: Moving output files for package: /Game/3100/3100/BP/DeadBody
+[2024.07.12-00.58.58:252][523]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/DeadBody7AA5A8DB46B3EA3D58EF1D8CD336A948.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/BP/DeadBody.uasset'
+[2024.07.12-00.58.58:255][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/UI/GameStart" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/GameStart.uasset" SILENT=true
+[2024.07.12-00.58.58:260][523]LogSavePackage: Moving output files for package: /Game/3100/3100/UI/GameStart
+[2024.07.12-00.58.58:260][523]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/GameStart366C2C5C4D2F2CAA9565D1BE04097705.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/GameStart.uasset'
+[2024.07.12-00.58.58:263][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/UI/Help" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/Help.uasset" SILENT=true
+[2024.07.12-00.58.58:265][523]LogSavePackage: Moving output files for package: /Game/3100/3100/UI/Help
+[2024.07.12-00.58.58:265][523]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/Help71047419452A4CE0AE5DD0A3792A76D4.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/UI/Help.uasset'
+[2024.07.12-00.58.58:270][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 189 ms (total: 3.17 sec)
+[2024.07.12-00.58.58:272][523]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.12-00.58.58:272][523]LogContentValidation: Display: Validating /Script/Engine.World /Game/3100/3100/Level/3100.3100
+[2024.07.12-00.58.58:272][523]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3100/3100/BP/DeadBody.DeadBody
+[2024.07.12-00.58.58:272][523]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/3100/3100/UI/GameStart.GameStart
+[2024.07.12-00.58.58:273][523]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/3100/3100/UI/Help.Help
