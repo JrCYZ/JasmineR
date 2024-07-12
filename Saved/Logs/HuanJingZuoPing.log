@@ -6230,3 +6230,27 @@ Scale3D: 1.000000 1.000000 1.000000
 [2024.07.12-22.23.54:381][577]AssetCheck: New page: 资产保存：多个资产
 [2024.07.12-22.23.54:381][577]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/3100/3100/Level/3100.3100
 [2024.07.12-22.23.54:381][577]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.07.12-22.25.05:354][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-22.25.05:370][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Level/3100" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Level/3100.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.12-22.25.05:394][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.07.12-22.25.05:489][ 13]LogSavePackage: Moving output files for package: /Game/3100/3100/Level/3100
+[2024.07.12-22.25.05:489][ 13]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/3100B61E0E4A4706AC80FDE60F97925BFE6F.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Level/3100.umap'
+[2024.07.12-22.25.05:491][ 13]LogFileHelpers: 所有文件已保存。
+[2024.07.12-22.25.05:497][ 13]LogFileHelpers: Saving map '3100' took 0.127
+[2024.07.12-22.25.05:505][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 1.65 sec)
+[2024.07.12-22.25.05:508][ 13]AssetCheck: New page: 资产保存：3100
+[2024.07.12-22.25.05:508][ 13]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/3100/3100/Level/3100.3100
+[2024.07.12-22.25.10:856][265]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.12-22.25.18:988][131]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.12-22.25.20:806][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.07.12-22.25.21:624][338]LogSlate: Window '保存内容' being destroyed
+[2024.07.12-22.25.21:629][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-22.25.21:645][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Level/3100" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Level/3100.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.12-22.25.21:669][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.07.12-22.25.21:762][338]LogSavePackage: Moving output files for package: /Game/3100/3100/Level/3100
+[2024.07.12-22.25.21:762][338]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/31003D7B7A22483F71442CBF69842213C6F5.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Level/3100.umap'
+[2024.07.12-22.25.21:765][338]LogFileHelpers: 所有文件已保存。
+[2024.07.12-22.25.21:769][338]LogFileHelpers: Saving map '3100' took 0.125
+[2024.07.12-22.25.21:786][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 1.81 sec)
+[2024.07.12-22.25.21:789][338]AssetCheck: New page: 资产保存：3100
+[2024.07.12-22.25.21:789][338]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/3100/3100/Level/3100.3100
