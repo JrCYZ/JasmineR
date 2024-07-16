@@ -4022,3 +4022,69 @@ Make sure 'BP_Controller_C' has been compiled for  Bind Event to F
 [2024.07.16-21.27.11:214][487]AssetCheck: New page: Asset Save: DeadBody
 [2024.07.16-21.27.11:214][487]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3100/3100/BP/NPC/YM/DeadBody.DeadBody
 [2024.07.16-21.27.15:283][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.07.16-21.27.39:674][ 96]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.16-21.27.39:678][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.16-21.27.39:678][ 96]PIE: New page: PIE session: TestMap (Jul 16, 2024, 9:27:39 AM)
+[2024.07.16-21.27.39:720][ 96]LogPlayLevel: Creating play world package: /Game/3100/Test/UEDPIE_0_TestMap
+[2024.07.16-21.27.39:745][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025459s)
+[2024.07.16-21.27.39:745][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3100/Test/TestMap.TestMap to /Game/3100/Test/UEDPIE_0_TestMap.TestMap (0.025495s)
+[2024.07.16-21.27.39:756][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.07.16-21.27.39:757][ 96]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.16-21.27.39:757][ 96]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.16-21.27.39:758][ 96]LogAIModule: Creating AISystem for world TestMap
+[2024.07.16-21.27.39:758][ 96]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2024.07.16-21.27.39:758][ 96]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.07.16-21.27.39:758][ 96]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.16-21.27.39:758][ 96]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.16-21.27.39:758][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.16-21.27.39:758][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.16-21.27.39:758][ 96]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.16-21.27.39:758][ 96]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.16-21.27.39:758][ 96]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.16-21.27.39:758][ 96]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.16-21.27.39:759][ 96]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.16-21.27.39:759][ 96]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.16-21.27.39:759][ 96]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.16-21.27.39:761][ 96]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.16-21.27.39:774][ 96]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.16-21.27.39:775][ 96]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.16-21.27.39:775][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.16-21.27.39:775][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.16-21.27.39:775][ 96]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.07.16-21.27.39:775][ 96]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.07.16-21.27.39:776][ 96]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.07.16-21.27.39:776][ 96]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.07.16-21.27.39:776][ 96]LogInit: FAudioDevice initialized with ID 22.
+[2024.07.16-21.27.39:776][ 96]LogAudio: Display: Audio Device (ID: 22) registered with world 'TestMap'.
+[2024.07.16-21.27.39:776][ 96]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.07.16-21.27.39:778][ 96]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.16-21.27.39:796][ 96]LogWorld: Bringing World /Game/3100/Test/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2024.07.16-15.27.39
+[2024.07.16-21.27.39:797][ 96]LogWorld: Bringing up level for play took: 0.018161
+[2024.07.16-21.27.39:799][ 96]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2024.07.16-21.27.39:801][ 96]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/3100/3100/BP/EAEMY_POints.EAEMY_POints_C:ExecuteUbergraph_EAEMY_POints'!
+[2024.07.16-21.27.39:801][ 96]LogScript: Warning: Script Msg called by: EAEMY_POints_C /Game/3100/Test/UEDPIE_0_TestMap.TestMap:PersistentLevel.EAEMY_POints_C_7
+[2024.07.16-21.27.39:802][ 96]PIE: Server logged in
+[2024.07.16-21.27.39:802][ 96]PIE: Play in editor total start time 0.124 seconds.
+[2024.07.16-21.27.52:625][626]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Dialogue' of length 3 in '/Game/3100/3100/BP/NPC/YM/DeadBody.DeadBody_C'!
+[2024.07.16-21.27.52:625][626]LogScript: Warning: Script Msg called by: DeadBody_C /Game/3100/Test/UEDPIE_0_TestMap.TestMap:PersistentLevel.DeadBody_C_1
+[2024.07.16-21.27.59:190][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.16-21.27.59:190][410]LogWorld: BeginTearingDown for /Game/3100/Test/UEDPIE_0_TestMap
+[2024.07.16-21.27.59:190][410]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.16-21.27.59:192][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.16-21.27.59:207][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.16-21.27.59:210][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.16-21.27.59:217][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.16-21.27.59:219][410]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.07.16-21.27.59:219][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.07.16-21.27.59:220][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.07.16-21.27.59:228][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.07.16-21.27.59:259][411]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2024.07.16-21.29.01:718][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.16-21.29.01:901][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/BP/NPC/YM/DeadBody" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/BP/NPC/YM/DeadBody.uasset" SILENT=true
+[2024.07.16-21.29.01:910][856]LogSavePackage: Moving output files for package: /Game/3100/3100/BP/NPC/YM/DeadBody
+[2024.07.16-21.29.01:910][856]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/DeadBody66BF905649287F093831FD8EBD3A597D.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/BP/NPC/YM/DeadBody.uasset'
+[2024.07.16-21.29.01:916][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 197 ms (total: 2.73 sec)
+[2024.07.16-21.29.01:917][856]AssetCheck: New page: Asset Save: DeadBody
+[2024.07.16-21.29.01:917][856]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/3100/3100/BP/NPC/YM/DeadBody.DeadBody
+[2024.07.16-21.29.04:573][170]BlueprintLog: New page: Compile DeadBody
+[2024.07.16-21.29.04:636][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
