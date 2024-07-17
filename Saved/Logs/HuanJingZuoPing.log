@@ -13432,3 +13432,186 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.17-21.07.11:547][911]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Megascans/3D_Assets/Modular_Curb_Kit_xbttdihdw/MI_Modular_Curb_Kit_xbttdihdw_2K_Auto1
 [2024.07.17-21.07.11:547][911]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/MI_Modular_Curb_Kit_xbttdihdw_2K273F9EA3492D7A207C5438B694962B44.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/Autosaves/Game/Megascans/3D_Assets/Modular_Curb_Kit_xbttdihdw/MI_Modular_Curb_Kit_xbttdihdw_2K_Auto1.uasset'
 [2024.07.17-21.07.11:547][911]LogFileHelpers: Auto-saving content packages took 0.308
+[2024.07.17-21.07.27:265][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.07.17-21.07.28:630][228]LogSlate: Window '保存内容' being destroyed
+[2024.07.17-21.07.28:637][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.17-21.07.28:653][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/Test/TestMap" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/Test/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.17-21.07.28:677][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.07.17-21.07.28:796][228]LogSavePackage: Moving output files for package: /Game/3100/Test/TestMap
+[2024.07.17-21.07.28:797][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/TestMap9C5824F949D3F7E5F6A7238A67A4681E.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/Test/TestMap.umap'
+[2024.07.17-21.07.28:800][228]LogFileHelpers: 所有文件已保存。
+[2024.07.17-21.07.28:803][228]Message dialog closed, result: Ok, title: 无法从版本控制检出！, text: 无法从版本控制成功检出以下资产：
+/Game/3100/Test/TestMap_BuiltData
+[2024.07.17-21.07.28:803][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.17-21.07.28:803][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/Test/TestMap_BuiltData" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/Test/TestMap_BuiltData.uasset" SILENT=true
+[2024.07.17-21.07.28:838][228]LogSavePackage: Moving output files for package: /Game/3100/Test/TestMap_BuiltData
+[2024.07.17-21.07.28:838][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/TestMap_BuiltData8DBD4B93408EB1077CDBD59CE1ED6771.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/Test/TestMap_BuiltData.uasset'
+[2024.07.17-21.07.28:839][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 109 ms)
+[2024.07.17-21.07.28:839][228]Message dialog closed, result: Ok, title: 无法从版本控制检出！, text: 无法从版本控制成功检出以下资产：
+/Game/3100/Test/TestMap_BuiltData
+[2024.07.17-21.07.28:839][228]LogFileHelpers: Saving map 'TestMap' took 0.187
+[2024.07.17-21.07.28:840][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/AluminiumBrushed" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/AluminiumBrushed.uasset" SILENT=true
+[2024.07.17-21.07.28:840][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/AluminiumBrushed
+[2024.07.17-21.07.28:841][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/AluminiumBrushed0A0CB5C44F4B6D927DAFCD8B7D1F1F1B.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/AluminiumBrushed.uasset'
+[2024.07.17-21.07.28:850][228]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.17-21.07.28:850][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/BP_ThirdPersonCharacterD03C13484D82AD59E4F9A6ADA29709FA.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.17-21.07.28:851][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/Brass" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/Brass.uasset" SILENT=true
+[2024.07.17-21.07.28:852][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/Brass
+[2024.07.17-21.07.28:853][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/Brass143C47E0412572AAAA7ABDBAC6FF7EA9.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/Brass.uasset'
+[2024.07.17-21.07.28:853][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/Cardboard" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/Cardboard.uasset" SILENT=true
+[2024.07.17-21.07.28:854][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/Cardboard
+[2024.07.17-21.07.28:854][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/Cardboard262DAE5E4808CEBB28347ABA1FC60670.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/Cardboard.uasset'
+[2024.07.17-21.07.28:855][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/Concrete" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/Concrete.uasset" SILENT=true
+[2024.07.17-21.07.28:856][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/Concrete
+[2024.07.17-21.07.28:856][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/Concrete35BE79964EA4051637DAA3959B8702DF.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/Concrete.uasset'
+[2024.07.17-21.07.28:857][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/ConcreteGrey" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/ConcreteGrey.uasset" SILENT=true
+[2024.07.17-21.07.28:857][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/ConcreteGrey
+[2024.07.17-21.07.28:858][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/ConcreteGrey8D3574E74067F5AAC0C532958DBAF502.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/ConcreteGrey.uasset'
+[2024.07.17-21.07.28:858][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/ConcreteTiles" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/ConcreteTiles.uasset" SILENT=true
+[2024.07.17-21.07.28:859][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/ConcreteTiles
+[2024.07.17-21.07.28:859][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/ConcreteTiles8C931938462DCB75654967B030C939D4.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/ConcreteTiles.uasset'
+[2024.07.17-21.07.28:860][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/Decals" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/Decals.uasset" SILENT=true
+[2024.07.17-21.07.28:860][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/Decals
+[2024.07.17-21.07.28:860][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/Decals5A6587894F2074F575000398AB7D604C.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/Decals.uasset'
+[2024.07.17-21.07.28:861][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/GlassBlack" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/GlassBlack.uasset" SILENT=true
+[2024.07.17-21.07.28:862][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/GlassBlack
+[2024.07.17-21.07.28:862][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/GlassBlack465C751E49B777229EC18C80765D2D52.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/GlassBlack.uasset'
+[2024.07.17-21.07.28:862][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/GlassBottle" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/GlassBottle.uasset" SILENT=true
+[2024.07.17-21.07.28:863][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/GlassBottle
+[2024.07.17-21.07.28:863][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/GlassBottle13065AA342429139CE411EAD2AAFC1CC.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/GlassBottle.uasset'
+[2024.07.17-21.07.28:864][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/GlassTransparent" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/GlassTransparent.uasset" SILENT=true
+[2024.07.17-21.07.28:864][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/GlassTransparent
+[2024.07.17-21.07.28:865][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/GlassTransparent59F431ED48614F77344A25B148FEF2FD.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/GlassTransparent.uasset'
+[2024.07.17-21.07.28:865][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/MateriaL/Light" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/MateriaL/Light.uasset" SILENT=true
+[2024.07.17-21.07.28:866][228]LogSavePackage: Moving output files for package: /Game/3100/3100/MateriaL/Light
+[2024.07.17-21.07.28:866][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/LightE607C0274AC6586EB3DFF8BB86A5C22D.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/MateriaL/Light.uasset'
+[2024.07.17-21.07.28:867][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/LightBlue" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/LightBlue.uasset" SILENT=true
+[2024.07.17-21.07.28:867][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/LightBlue
+[2024.07.17-21.07.28:867][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/LightBlue9EA7BEDA4D11E0564F3315BF28E22C83.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/LightBlue.uasset'
+[2024.07.17-21.07.28:868][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/LightOrange" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/LightOrange.uasset" SILENT=true
+[2024.07.17-21.07.28:869][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/LightOrange
+[2024.07.17-21.07.28:869][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/LightOrangeD3F470C84AD22C3A65517E8B691664E0.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/LightOrange.uasset'
+[2024.07.17-21.07.28:869][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/LightRed" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/LightRed.uasset" SILENT=true
+[2024.07.17-21.07.28:870][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/LightRed
+[2024.07.17-21.07.28:870][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/LightRedA49BF6EE4E15F83D4F6408842B746E51.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/LightRed.uasset'
+[2024.07.17-21.07.28:871][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/LightWhite" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/LightWhite.uasset" SILENT=true
+[2024.07.17-21.07.28:871][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/LightWhite
+[2024.07.17-21.07.28:872][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/LightWhite8F050F7F4A8AAE94B3F2B980AA1D7424.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/LightWhite.uasset'
+[2024.07.17-21.07.28:872][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/LightYellow" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/LightYellow.uasset" SILENT=true
+[2024.07.17-21.07.28:873][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/LightYellow
+[2024.07.17-21.07.28:873][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/LightYellow04D73DC749F0C5F85BCD44B3DD536AD2.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/LightYellow.uasset'
+[2024.07.17-21.07.28:875][228]LogSavePackage: Moving output files for package: /Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material
+[2024.07.17-21.07.28:875][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/M_MS_Default_MaterialA8BB07314A3BA5E3DF4A7490922D6213.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/MSPresets/M_MS_Default_Material/M_MS_Default_Material.uasset'
+[2024.07.17-21.07.28:877][228]LogSavePackage: Moving output files for package: /Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material
+[2024.07.17-21.07.28:878][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/M_MS_Surface_Material855F87874F5CD8690CADF187C6C559A3.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material.uasset'
+[2024.07.17-21.07.28:879][228]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Concrete_Slabs_vkmeebc/MI_Concrete_Slabs_vkmeebc_2K
+[2024.07.17-21.07.28:879][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/MI_Concrete_Slabs_vkmeebc_2KB368FA8045ECE2A32229B4AD234CF5D8.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/Megascans/Surfaces/Concrete_Slabs_vkmeebc/MI_Concrete_Slabs_vkmeebc_2K.uasset'
+[2024.07.17-21.07.28:880][228]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Modular_Curb_Kit_xbttdihdw/MI_Modular_Curb_Kit_xbttdihdw_2K
+[2024.07.17-21.07.28:880][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/MI_Modular_Curb_Kit_xbttdihdw_2KCC807009481D433572C817A45244F792.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/Megascans/3D_Assets/Modular_Curb_Kit_xbttdihdw/MI_Modular_Curb_Kit_xbttdihdw_2K.uasset'
+[2024.07.17-21.07.28:881][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/Mirror" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/Mirror.uasset" SILENT=true
+[2024.07.17-21.07.28:882][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/Mirror
+[2024.07.17-21.07.28:882][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/Mirror32CFB1AD4FE8C12A99516E92CEAD16CD.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/Mirror.uasset'
+[2024.07.17-21.07.28:882][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/MateriaL/P" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/MateriaL/P.uasset" SILENT=true
+[2024.07.17-21.07.28:883][228]LogSavePackage: Moving output files for package: /Game/3100/3100/MateriaL/P
+[2024.07.17-21.07.28:883][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/P22FD01204E8F14B33227DAAA8B1829FC.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/MateriaL/P.uasset'
+[2024.07.17-21.07.28:884][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/PaintBlack" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/PaintBlack.uasset" SILENT=true
+[2024.07.17-21.07.28:885][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/PaintBlack
+[2024.07.17-21.07.28:885][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/PaintBlackE58A2DB3431452DF3EC2A7AFAFE9CB54.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/PaintBlack.uasset'
+[2024.07.17-21.07.28:885][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/PaintBlue" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/PaintBlue.uasset" SILENT=true
+[2024.07.17-21.07.28:886][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/PaintBlue
+[2024.07.17-21.07.28:886][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/PaintBlueF6E80F78480E647755344DA365947375.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/PaintBlue.uasset'
+[2024.07.17-21.07.28:887][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/PaintGreen" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/PaintGreen.uasset" SILENT=true
+[2024.07.17-21.07.28:887][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/PaintGreen
+[2024.07.17-21.07.28:888][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/PaintGreen22F3D0454A3B1BDA8620EBB90376E493.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/PaintGreen.uasset'
+[2024.07.17-21.07.28:888][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/PaintRed" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/PaintRed.uasset" SILENT=true
+[2024.07.17-21.07.28:889][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/PaintRed
+[2024.07.17-21.07.28:889][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/PaintRedD126B06A40C97902F13AD9B05EE1C326.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/PaintRed.uasset'
+[2024.07.17-21.07.28:890][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/PaintWhiteRusty" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/PaintWhiteRusty.uasset" SILENT=true
+[2024.07.17-21.07.28:890][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/PaintWhiteRusty
+[2024.07.17-21.07.28:890][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/PaintWhiteRusty6A4C925A4D10F06FCB38D38CE9BF59C0.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/PaintWhiteRusty.uasset'
+[2024.07.17-21.07.28:891][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/PaperWhite" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/PaperWhite.uasset" SILENT=true
+[2024.07.17-21.07.28:891][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/PaperWhite
+[2024.07.17-21.07.28:892][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/PaperWhiteD8AB6A3D4AEBC4A0B24FA2A7B089A1C8.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/PaperWhite.uasset'
+[2024.07.17-21.07.28:892][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/PlasticBlack" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/PlasticBlack.uasset" SILENT=true
+[2024.07.17-21.07.28:893][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/PlasticBlack
+[2024.07.17-21.07.28:893][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/PlasticBlack850025CC44FF3EBE310355896811A794.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/PlasticBlack.uasset'
+[2024.07.17-21.07.28:894][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/PlasticFoil" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/PlasticFoil.uasset" SILENT=true
+[2024.07.17-21.07.28:894][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/PlasticFoil
+[2024.07.17-21.07.28:894][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/PlasticFoil4C0903654229D1367A6A7B87780D9220.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/PlasticFoil.uasset'
+[2024.07.17-21.07.28:895][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/PlasticWhite" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/PlasticWhite.uasset" SILENT=true
+[2024.07.17-21.07.28:896][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/PlasticWhite
+[2024.07.17-21.07.28:896][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/PlasticWhite363C0FD8408A97587E56638A7B2654C1.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/PlasticWhite.uasset'
+[2024.07.17-21.07.28:896][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/PlasticYellow" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/PlasticYellow.uasset" SILENT=true
+[2024.07.17-21.07.28:897][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/PlasticYellow
+[2024.07.17-21.07.28:897][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/PlasticYellow89A485C5469FEAAE241A2C8EF2B4220D.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/PlasticYellow.uasset'
+[2024.07.17-21.07.28:898][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/RedWhiteStripes" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/RedWhiteStripes.uasset" SILENT=true
+[2024.07.17-21.07.28:898][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/RedWhiteStripes
+[2024.07.17-21.07.28:899][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/RedWhiteStripes5DDF75BF4F3D8773C1BC888F074D6FE9.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/RedWhiteStripes.uasset'
+[2024.07.17-21.07.28:899][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/Rubber" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/Rubber.uasset" SILENT=true
+[2024.07.17-21.07.28:900][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/Rubber
+[2024.07.17-21.07.28:900][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/RubberE6FF705F4D7FF3F1DB159DA54E818857.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/Rubber.uasset'
+[2024.07.17-21.07.28:900][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/Screens" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/Screens.uasset" SILENT=true
+[2024.07.17-21.07.28:901][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/Screens
+[2024.07.17-21.07.28:901][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/ScreensFE828BA84C91244E01625AA691F902E0.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/Screens.uasset'
+[2024.07.17-21.07.28:902][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/Speaker" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/Speaker.uasset" SILENT=true
+[2024.07.17-21.07.28:902][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/Speaker
+[2024.07.17-21.07.28:903][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/Speaker8D28945A4CD63FEE156D33B92A1DE495.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/Speaker.uasset'
+[2024.07.17-21.07.28:903][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/SteelRaw" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/SteelRaw.uasset" SILENT=true
+[2024.07.17-21.07.28:904][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/SteelRaw
+[2024.07.17-21.07.28:904][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/SteelRaw2397E7534CC3BC34173904B928E2F132.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/SteelRaw.uasset'
+[2024.07.17-21.07.28:905][228]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Concrete_Slabs_vkmeebc/T_Concrete_Slabs_vkmeebc_2K_Mat
+[2024.07.17-21.07.28:906][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/T_Concrete_Slabs_vkmeebc_2K_MatBA5C6C714B00E021DB5FDAB18F87A0D0.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/Megascans/Surfaces/Concrete_Slabs_vkmeebc/T_Concrete_Slabs_vkmeebc_2K_Mat.uasset'
+[2024.07.17-21.07.28:906][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/Test/TestMap_BuiltData" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/Test/TestMap_BuiltData.uasset" SILENT=true
+[2024.07.17-21.07.28:937][228]LogSavePackage: Moving output files for package: /Game/3100/Test/TestMap_BuiltData
+[2024.07.17-21.07.28:937][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/TestMap_BuiltDataCC723D7048186E17C9D761B369AE0125.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/Test/TestMap_BuiltData.uasset'
+[2024.07.17-21.07.28:938][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/Wood" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/Wood.uasset" SILENT=true
+[2024.07.17-21.07.28:939][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/Wood
+[2024.07.17-21.07.28:939][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/Wood3FCE5812454A00295033AAAED696A0EC.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/Wood.uasset'
+[2024.07.17-21.07.28:939][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3100/3100/Build/WoodLacquered" FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/WoodLacquered.uasset" SILENT=true
+[2024.07.17-21.07.28:940][228]LogSavePackage: Moving output files for package: /Game/3100/3100/Build/WoodLacquered
+[2024.07.17-21.07.28:940][228]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/WoodLacquered76993CA04A103189274427907705353C.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/3100/Build/WoodLacquered.uasset'
+[2024.07.17-21.07.28:945][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 307 ms (total: 417 ms)
+[2024.07.17-21.07.28:953][228]AssetCheck: New page: 资产保存：多个资产
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/3100/Test/TestMap.TestMap
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.MapBuildDataRegistry /Game/3100/Test/TestMap_BuiltData.TestMap_BuiltData
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/AluminiumBrushed.AluminiumBrushed
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/Brass.Brass
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/Cardboard.Cardboard
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/Concrete.Concrete
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/ConcreteGrey.ConcreteGrey
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/ConcreteTiles.ConcreteTiles
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/Decals.Decals
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/GlassBlack.GlassBlack
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/GlassBottle.GlassBottle
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/GlassTransparent.GlassTransparent
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/MateriaL/Light.Light
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/LightBlue.LightBlue
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/LightOrange.LightOrange
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/LightRed.LightRed
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/LightWhite.LightWhite
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/LightYellow.LightYellow
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material.M_MS_Default_Material
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material.M_MS_Surface_Material
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/Megascans/Surfaces/Concrete_Slabs_vkmeebc/MI_Concrete_Slabs_vkmeebc_2K.MI_Concrete_Slabs_vkmeebc_2K
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/Megascans/3D_Assets/Modular_Curb_Kit_xbttdihdw/MI_Modular_Curb_Kit_xbttdihdw_2K.MI_Modular_Curb_Kit_xbttdihdw_2K
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/Mirror.Mirror
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/MateriaL/P.P
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/PaintBlack.PaintBlack
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/PaintBlue.PaintBlue
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/PaintGreen.PaintGreen
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/PaintRed.PaintRed
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/PaintWhiteRusty.PaintWhiteRusty
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/PaperWhite.PaperWhite
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/PlasticBlack.PlasticBlack
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/PlasticFoil.PlasticFoil
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/PlasticWhite.PlasticWhite
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/PlasticYellow.PlasticYellow
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/RedWhiteStripes.RedWhiteStripes
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/Rubber.Rubber
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/Screens.Screens
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/Speaker.Speaker
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/SteelRaw.SteelRaw
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/Megascans/Surfaces/Concrete_Slabs_vkmeebc/T_Concrete_Slabs_vkmeebc_2K_Mat.T_Concrete_Slabs_vkmeebc_2K_Mat
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/Wood.Wood
+[2024.07.17-21.07.28:953][228]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/3100/3100/Build/WoodLacquered.WoodLacquered
