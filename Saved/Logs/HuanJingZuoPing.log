@@ -1004,3 +1004,84 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.29-20.45.36:368][  0]SourceControl: 版本控制已禁用
 [2024.07.29-20.45.36:377][  0]LogUProjectInfo: Found projects:
 [2024.07.29-20.45.36:439][  0]LogOpenImageDenoise: OIDN starting up
+[2024.07.29-20.45.36:548][  0]LogCollectionManager: Loaded 0 collections in 0.001567 seconds
+[2024.07.29-20.45.36:549][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1371722/Documents/GitHub/JasmineR/Saved/Collections/' took 0.00s
+[2024.07.29-20.45.36:550][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1371722/Documents/GitHub/JasmineR/Content/Developers/u1371722/Collections/' took 0.00s
+[2024.07.29-20.45.36:551][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1371722/Documents/GitHub/JasmineR/Content/Collections/' took 0.00s
+[2024.07.29-20.45.36:794][  0]LogEngine: Initializing Engine...
+[2024.07.29-20.45.36:804][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.07.29-20.45.37:004][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.07.29-20.45.37:008][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.29-20.45.37:012][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.29-20.45.37:021][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.07.29-20.45.37:022][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.07.29-20.45.37:022][  0]LogInit: Texture streaming: Enabled
+[2024.07.29-20.45.37:036][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.3.2-29314046+++UE5+Release-5.3
+[2024.07.29-20.45.37:045][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.07.29-20.45.37:055][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.07.29-20.45.37:059][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.07.29-20.45.37:059][  0]LogAudio: Display: AudioInfo: 'BINKA' Registered
+[2024.07.29-20.45.37:062][  0]LogAudio: Display: AudioInfo: 'PCM' Registered
+[2024.07.29-20.45.37:062][  0]LogAudio: Display: AudioInfo: 'ADPCM' Registered
+[2024.07.29-20.45.37:062][  0]LogAudio: Display: AudioInfo: 'OGG' Registered
+[2024.07.29-20.45.37:062][  0]LogAudio: Display: AudioInfo: 'OPUS' Registered
+[2024.07.29-20.45.37:062][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.07.29-20.45.37:062][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.07.29-20.45.37:062][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.29-20.45.37:062][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.29-20.45.37:062][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.29-20.45.37:062][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.29-20.45.37:062][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.29-20.45.37:062][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.29-20.45.37:062][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.29-20.45.37:062][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.29-20.45.37:062][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.29-20.45.37:062][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.29-20.45.37:062][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.29-20.45.37:066][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.29-20.45.37:120][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.29-20.45.37:121][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.29-20.45.37:138][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.29-20.45.37:138][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.29-20.45.37:139][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2024.07.29-20.45.37:139][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.07.29-20.45.37:141][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.07.29-20.45.37:141][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2024.07.29-20.45.37:141][  0]LogInit: FAudioDevice initialized with ID 1.
+[2024.07.29-20.45.37:141][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.07.29-20.45.37:141][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2024.07.29-20.45.37:155][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.07.29-20.45.37:157][  0]LogInit: Undo buffer set to 32 MB
+[2024.07.29-20.45.37:157][  0]LogInit: Transaction tracking system initialized
+[2024.07.29-20.45.37:185][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Saved/SourceControl/UncontrolledChangelists.json
+[2024.07.29-20.45.37:185][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2024.07.29-20.45.37:189][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.004426 seconds (Found 142 uncontrolled assets)
+[2024.07.29-20.45.37:199][  0]BlueprintLog: New page: 编辑器加载
+[2024.07.29-20.45.37:292][  0]LocalizationService: 本地化服务已禁用
+[2024.07.29-20.45.37:317][  0]TimingProfiler: Initialize
+[2024.07.29-20.45.37:317][  0]TimingProfiler: OnSessionChanged
+[2024.07.29-20.45.37:317][  0]LoadingProfiler: Initialize
+[2024.07.29-20.45.37:317][  0]LoadingProfiler: OnSessionChanged
+[2024.07.29-20.45.37:317][  0]NetworkingProfiler: Initialize
+[2024.07.29-20.45.37:317][  0]NetworkingProfiler: OnSessionChanged
+[2024.07.29-20.45.37:317][  0]MemoryProfiler: Initialize
+[2024.07.29-20.45.37:317][  0]MemoryProfiler: OnSessionChanged
+[2024.07.29-20.45.37:593][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1371722/Documents/GitHub/JasmineR/Content/' took 0.01s
+[2024.07.29-20.45.37:660][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.07.29-20.45.37:730][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2024.07.29-20.45.37:733][  0]LogHoudiniEngineEditor: Houdini Spline Component Visualizer Registered!
+[2024.07.29-20.45.37:733][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2024.07.29-20.45.37:781][  0]LoadErrors: Error: 碰撞描述文件设置不包括水体碰撞描述文件的条目，水碰撞必须使用该描述文件才能正常工作。 将条目添加到DefaultEngine.ini？
+[2024.07.29-20.45.37:869][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.07.29-20.45.37:870][  0]SourceControl: 版本控制已禁用
+[2024.07.29-20.45.37:870][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.694
+[2024.07.29-20.45.37:870][  0]Cmd: MAP LOAD FILE="../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Content/3100/Test/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.29-20.45.37:873][  0]LightingResults: New page: 光照构建
+[2024.07.29-20.45.37:876][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.07.29-20.45.37:876][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.29-20.45.37:876][  0]MapCheck: New page: 地图检测
+[2024.07.29-20.45.37:876][  0]LightingResults: New page: 光照构建
+[2024.07.29-20.45.37:890][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.29-20.45.37:893][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.07.29-20.45.37:945][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2024.07.29-20.45.38:594][  0]LogAssetRegistry: Display: Asset registry cache written as 55.4 MiB to ../../../../../../Users/u1371722/Documents/GitHub/JasmineR/Intermediate/CachedAssetRegistry_*.bin
