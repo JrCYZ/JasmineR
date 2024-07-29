@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\u1371722\\Documents\\GitHub\\JasmineR\\Intermediate\\Source\\HuanJingZuoPing.Build.cs",
+		"C:\\Users\\u1371722\\Documents\\GitHub\\JasmineR\\Intermediate\\Source\\HuanJingZuoPing.Target.cs",
+		"C:\\Users\\u1371722\\Documents\\GitHub\\JasmineR\\Intermediate\\Source\\HuanJingZuoPingClient.Target.cs",
+		"C:\\Users\\u1371722\\Documents\\GitHub\\JasmineR\\Intermediate\\Source\\HuanJingZuoPingEditor.Target.cs",
+		"C:\\Users\\u1371722\\Documents\\GitHub\\JasmineR\\Intermediate\\Source\\HuanJingZuoPingServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
